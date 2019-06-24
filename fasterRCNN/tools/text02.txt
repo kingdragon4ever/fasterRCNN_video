@@ -1,0 +1,4135 @@
+
+
+Loaded network /home/xxt/py-fasterrcnn/data/faster_rcnn_models/ZF_faster_rcnn_final.caffemodel
+Demo for data/demo/0001.jpg
+Detection took 0.096s for 300 object proposals
+x11=227; y11=426; x21=294; y21=503;
+1
+number:[1]
+Demo for data/demo/0002.jpg
+Detection took 0.103s for 300 object proposals
+x12=243; y12=418; x22=306; y22=495;
+1
+number:[1]
+Demo for data/demo/0003.jpg
+Detection took 0.098s for 300 object proposals
+x13=233; y13=441; x23=299; y23=510;
+1
+number:[1]
+Demo for data/demo/0004.jpg
+Detection took 0.096s for 300 object proposals
+x14=237; y14=442; x24=307; y24=508;
+1
+number:[1]
+Demo for data/demo/0005.jpg
+Detection took 0.085s for 300 object proposals
+x11=232; y11=437; x21=303; y21=500;
+1
+number:[1]
+Demo for data/demo/0006.jpg
+Detection took 0.083s for 300 object proposals
+x12=229; y12=432; x22=300; y22=496;
+1
+number:[1]
+Demo for data/demo/0007.jpg
+Detection took 0.086s for 300 object proposals
+x13=239; y13=448; x23=299; y23=514;
+1
+number:[1]
+Demo for data/demo/0008.jpg
+Detection took 0.083s for 300 object proposals
+x14=231; y14=444; x24=301; y24=508;
+1
+number:[1]
+Demo for data/demo/0009.jpg
+Detection took 0.082s for 300 object proposals
+x11=252; y11=430; x21=316; y21=494;
+1
+number:[1]
+Demo for data/demo/0010.jpg
+Detection took 0.083s for 300 object proposals
+x12=234; y12=436; x22=290; y22=500;
+1
+number:[1]
+Demo for data/demo/0011.jpg
+Detection took 0.090s for 300 object proposals
+Demo for data/demo/0012.jpg
+Detection took 0.088s for 300 object proposals
+Demo for data/demo/0013.jpg
+Detection took 0.087s for 300 object proposals
+Demo for data/demo/0014.jpg
+Detection took 0.088s for 300 object proposals
+Demo for data/demo/0015.jpg
+Detection took 0.088s for 300 object proposals
+Demo for data/demo/0016.jpg
+Detection took 0.088s for 300 object proposals
+Demo for data/demo/0017.jpg
+Detection took 0.087s for 300 object proposals
+x11=1; y11=375; x21=41; y21=526;
+1
+number:[1]
+Demo for data/demo/0018.jpg
+Detection took 0.090s for 300 object proposals
+x12=1; y12=370; x22=17; y22=539;
+1
+number:[1]
+Demo for data/demo/0019.jpg
+Detection took 0.085s for 300 object proposals
+x13=0; y13=376; x23=34; y23=553;
+1
+number:[1]
+Demo for data/demo/0020.jpg
+Detection took 0.084s for 300 object proposals
+x14=0; y14=377; x24=35; y24=527;
+1
+number:[1]
+Demo for data/demo/0021.jpg
+Detection took 0.084s for 300 object proposals
+x11=0; y11=382; x21=52; y21=541;
+1
+number:[1]
+Demo for data/demo/0022.jpg
+Detection took 0.085s for 300 object proposals
+x12=0; y12=386; x22=67; y22=531;
+1
+number:[1]
+Demo for data/demo/0023.jpg
+Detection took 0.084s for 300 object proposals
+x13=0; y13=378; x23=56; y23=555;
+1
+number:[1]
+Demo for data/demo/0024.jpg
+Detection took 0.084s for 300 object proposals
+x14=0; y14=397; x24=52; y24=549;
+1
+x14=247; y14=433; x24=304; y24=496;
+2
+number:[1 2]
+Demo for data/demo/0025.jpg
+Detection took 0.083s for 300 object proposals
+x11=2; y11=367; x21=56; y21=542;
+1
+x11=240; y11=430; x21=300; y21=498;
+2
+number:[1 2]
+Demo for data/demo/0026.jpg
+Detection took 0.083s for 300 object proposals
+x12=11; y12=402; x22=64; y22=563;
+1
+number:[1]
+Demo for data/demo/0027.jpg
+Detection took 0.083s for 300 object proposals
+x13=10; y13=377; x23=54; y23=550;
+1
+number:[1]
+Demo for data/demo/0028.jpg
+Detection took 0.083s for 300 object proposals
+x14=1; y14=390; x24=63; y24=542;
+1
+x14=1096; y14=317; x24=1145; y24=500;
+2
+number:[1 2]
+Demo for data/demo/0029.jpg
+Detection took 0.084s for 300 object proposals
+x11=2; y11=388; x21=54; y21=566;
+1
+x11=1087; y11=288; x21=1138; y21=502;
+2
+number:[1 2]
+Demo for data/demo/0030.jpg
+Detection took 0.083s for 300 object proposals
+x12=13; y12=389; x22=72; y22=548;
+1
+x12=1076; y12=316; x22=1147; y22=506;
+2
+number:[1 2]
+Demo for data/demo/0031.jpg
+Detection took 0.083s for 300 object proposals
+x13=15; y13=392; x23=72; y23=547;
+1
+x13=1080; y13=318; x23=1136; y23=508;
+2
+number:[1 2]
+Demo for data/demo/0032.jpg
+Detection took 0.085s for 300 object proposals
+x14=1052; y14=289; x24=1126; y24=513;
+1
+x14=4; y14=382; x24=56; y24=539;
+2
+number:[1 2]
+Demo for data/demo/0033.jpg
+Detection took 0.086s for 300 object proposals
+x11=1045; y11=316; x21=1129; y21=510;
+1
+x11=1; y11=380; x21=58; y21=557;
+2
+number:[1 2]
+Demo for data/demo/0034.jpg
+Detection took 0.084s for 300 object proposals
+x12=1051; y12=302; x22=1132; y22=511;
+1
+x12=8; y12=385; x22=78; y22=567;
+2
+number:[1 2]
+Demo for data/demo/0035.jpg
+Detection took 0.084s for 300 object proposals
+x13=9; y13=361; x23=74; y23=559;
+1
+x13=1036; y13=292; x23=1111; y23=507;
+2
+number:[1 2]
+Demo for data/demo/0036.jpg
+Detection took 0.085s for 300 object proposals
+x14=3; y14=372; x24=81; y24=548;
+1
+x14=1019; y14=290; x24=1102; y24=472;
+2
+number:[1 2]
+Demo for data/demo/0037.jpg
+Detection took 0.086s for 300 object proposals
+x11=3; y11=355; x21=90; y21=560;
+1
+x11=1004; y11=291; x21=1082; y21=487;
+2
+number:[1 2]
+Demo for data/demo/0038.jpg
+Detection took 0.085s for 300 object proposals
+x12=0; y12=359; x22=105; y22=572;
+1
+x12=1009; y12=296; x22=1091; y22=490;
+2
+number:[1 2]
+Demo for data/demo/0039.jpg
+Detection took 0.085s for 300 object proposals
+x13=2; y13=359; x23=88; y23=557;
+1
+x13=1005; y13=314; x23=1069; y23=501;
+2
+number:[1 2]
+Demo for data/demo/0040.jpg
+Detection took 0.084s for 300 object proposals
+x14=10; y14=351; x24=93; y24=565;
+1
+x14=990; y14=306; x24=1077; y24=488;
+2
+number:[1 2]
+Demo for data/demo/0041.jpg
+Detection took 0.084s for 300 object proposals
+x11=3; y11=382; x21=80; y21=562;
+1
+x11=986; y11=302; x21=1058; y21=486;
+2
+number:[1 2]
+Demo for data/demo/0042.jpg
+Detection took 0.083s for 300 object proposals
+x12=961; y12=289; x22=1052; y22=502;
+1
+x12=0; y12=403; x22=90; y22=552;
+2
+number:[1 2]
+Demo for data/demo/0043.jpg
+Detection took 0.084s for 300 object proposals
+x13=2; y13=366; x23=72; y23=562;
+1
+x13=946; y13=296; x23=1024; y23=495;
+2
+number:[1 2]
+Demo for data/demo/0044.jpg
+Detection took 0.083s for 300 object proposals
+x14=0; y14=392; x24=81; y24=564;
+1
+x14=930; y14=294; x24=1001; y24=494;
+2
+number:[1 2]
+Demo for data/demo/0045.jpg
+Detection took 0.083s for 300 object proposals
+x11=0; y11=374; x21=79; y21=549;
+1
+x11=933; y11=300; x21=1011; y21=504;
+2
+x11=237; y11=431; x21=307; y21=505;
+3
+number:[1 2 3]
+Demo for data/demo/0046.jpg
+Detection took 0.083s for 300 object proposals
+x12=10; y12=372; x22=95; y22=557;
+1
+x12=907; y12=309; x22=996; y22=506;
+2
+x12=242; y12=432; x22=305; y22=498;
+3
+number:[1 2 3]
+Demo for data/demo/0047.jpg
+Detection took 0.084s for 300 object proposals
+x13=2; y13=373; x23=74; y23=581;
+1
+x13=908; y13=313; x23=994; y23=501;
+2
+x13=235; y13=415; x23=300; y23=493;
+3
+number:[1 2 3]
+Demo for data/demo/0048.jpg
+Detection took 0.083s for 300 object proposals
+x14=11; y14=384; x24=76; y24=558;
+1
+x14=895; y14=331; x24=971; y24=503;
+2
+x14=225; y14=438; x24=297; y24=529;
+3
+number:[1 2 3]
+Demo for data/demo/0049.jpg
+Detection took 0.084s for 300 object proposals
+x11=0; y11=394; x21=99; y21=565;
+1
+x11=880; y11=310; x21=981; y21=518;
+2
+x11=213; y11=443; x21=290; y21=511;
+3
+number:[1 2 3]
+Demo for data/demo/0050.jpg
+Detection took 0.084s for 300 object proposals
+x12=15; y12=383; x22=84; y22=553;
+1
+x12=874; y12=334; x22=966; y22=506;
+2
+x12=231; y12=422; x22=297; y22=501;
+3
+number:[1 2 3]
+Demo for data/demo/0051.jpg
+Detection took 0.083s for 300 object proposals
+x13=868; y13=308; x23=940; y23=504;
+1
+x13=19; y13=357; x23=87; y23=542;
+2
+x13=230; y13=439; x23=297; y23=508;
+3
+number:[1 2 3]
+Demo for data/demo/0052.jpg
+Detection took 0.083s for 300 object proposals
+x14=862; y14=317; x24=915; y24=511;
+1
+x14=7; y14=361; x24=81; y24=547;
+2
+x14=229; y14=423; x24=288; y24=498;
+3
+number:[1 2 3]
+Demo for data/demo/0053.jpg
+Detection took 0.083s for 300 object proposals
+x11=12; y11=352; x21=92; y21=549;
+1
+x11=846; y11=309; x21=927; y21=502;
+2
+number:[1 2]
+Demo for data/demo/0054.jpg
+Detection took 0.084s for 300 object proposals
+x12=7; y12=352; x22=89; y22=555;
+1
+x12=844; y12=320; x22=905; y22=510;
+2
+x12=213; y12=434; x22=284; y22=499;
+3
+number:[1 2 3]
+Demo for data/demo/0055.jpg
+Detection took 0.085s for 300 object proposals
+x13=4; y13=355; x23=91; y23=562;
+1
+x13=809; y13=321; x23=894; y23=517;
+2
+number:[1 2]
+Demo for data/demo/0056.jpg
+Detection took 0.083s for 300 object proposals
+x14=4; y14=367; x24=97; y24=573;
+1
+x14=806; y14=321; x24=902; y24=512;
+2
+number:[1 2]
+Demo for data/demo/0057.jpg
+Detection took 0.086s for 300 object proposals
+x11=785; y11=322; x21=851; y21=509;
+1
+x11=8; y11=384; x21=110; y21=559;
+2
+number:[1 2]
+Demo for data/demo/0058.jpg
+Detection took 0.083s for 300 object proposals
+x12=766; y12=326; x22=844; y22=524;
+1
+x12=22; y12=399; x22=86; y22=555;
+2
+number:[1 2]
+Demo for data/demo/0059.jpg
+Detection took 0.084s for 300 object proposals
+x13=754; y13=313; x23=825; y23=500;
+1
+x13=15; y13=373; x23=94; y23=581;
+2
+number:[1 2]
+Demo for data/demo/0060.jpg
+Detection took 0.085s for 300 object proposals
+x14=760; y14=327; x24=824; y24=511;
+1
+x14=17; y14=356; x24=100; y24=575;
+2
+x14=216; y14=424; x24=279; y24=498;
+3
+number:[1 2 3]
+Demo for data/demo/0061.jpg
+Detection took 0.083s for 300 object proposals
+x11=738; y11=325; x21=816; y21=514;
+1
+x11=15; y11=372; x21=91; y21=579;
+2
+x11=209; y11=448; x21=273; y21=513;
+3
+number:[1 2 3]
+Demo for data/demo/0062.jpg
+Detection took 0.085s for 300 object proposals
+x12=9; y12=379; x22=101; y22=549;
+1
+x12=725; y12=332; x22=791; y22=519;
+2
+number:[1 2]
+Demo for data/demo/0063.jpg
+Detection took 0.083s for 300 object proposals
+x13=700; y13=339; x23=792; y23=532;
+1
+x13=12; y13=376; x23=94; y23=564;
+2
+number:[1 2]
+Demo for data/demo/0064.jpg
+Detection took 0.083s for 300 object proposals
+x14=15; y14=387; x24=96; y24=570;
+1
+x14=692; y14=320; x24=779; y24=516;
+2
+number:[1 2]
+Demo for data/demo/0065.jpg
+Detection took 0.083s for 300 object proposals
+x11=6; y11=369; x21=95; y21=580;
+1
+x11=690; y11=326; x21=764; y21=519;
+2
+number:[1 2]
+Demo for data/demo/0066.jpg
+Detection took 0.084s for 300 object proposals
+x12=4; y12=362; x22=103; y22=586;
+1
+x12=677; y12=328; x22=756; y22=541;
+2
+number:[1 2]
+Demo for data/demo/0067.jpg
+Detection took 0.085s for 300 object proposals
+x13=1; y13=381; x23=78; y23=584;
+1
+x13=652; y13=316; x23=727; y23=545;
+2
+number:[1 2]
+Demo for data/demo/0068.jpg
+Detection took 0.085s for 300 object proposals
+x14=10; y14=372; x24=100; y24=575;
+1
+x14=660; y14=325; x24=723; y24=529;
+2
+number:[1 2]
+Demo for data/demo/0069.jpg
+Detection took 0.085s for 300 object proposals
+x11=0; y11=358; x21=99; y21=590;
+1
+x11=641; y11=330; x21=694; y21=530;
+2
+number:[1 2]
+Demo for data/demo/0070.jpg
+Detection took 0.086s for 300 object proposals
+x12=4; y12=369; x22=102; y22=594;
+1
+x12=623; y12=372; x22=698; y22=534;
+2
+number:[1 2]
+Demo for data/demo/0071.jpg
+Detection took 0.083s for 300 object proposals
+x13=8; y13=384; x23=96; y23=579;
+1
+x13=605; y13=326; x23=675; y23=494;
+2
+number:[1 2]
+Demo for data/demo/0072.jpg
+Detection took 0.083s for 300 object proposals
+x14=16; y14=385; x24=97; y24=587;
+1
+x14=601; y14=330; x24=691; y24=526;
+2
+number:[1 2]
+Demo for data/demo/0073.jpg
+Detection took 0.084s for 300 object proposals
+x11=10; y11=368; x21=85; y21=575;
+1
+x11=580; y11=332; x21=660; y21=510;
+2
+number:[1 2]
+Demo for data/demo/0074.jpg
+Detection took 0.086s for 300 object proposals
+x12=28; y12=371; x22=107; y22=573;
+1
+x12=578; y12=325; x22=658; y22=521;
+2
+x12=2; y12=427; x22=41; y22=592;
+3
+number:[1 2 3]
+Demo for data/demo/0075.jpg
+Detection took 0.085s for 300 object proposals
+x13=552; y13=314; x23=642; y23=515;
+1
+x13=24; y13=391; x23=121; y23=575;
+2
+x13=1; y13=439; x23=36; y23=558;
+3
+number:[1 2 3]
+Demo for data/demo/0076.jpg
+Detection took 0.083s for 300 object proposals
+x14=33; y14=375; x24=105; y24=580;
+1
+x14=552; y14=315; x24=641; y24=515;
+2
+x14=0; y14=434; x24=47; y24=553;
+3
+number:[1 2 3]
+Demo for data/demo/0077.jpg
+Detection took 0.082s for 300 object proposals
+x11=14; y11=380; x21=100; y21=579;
+1
+x11=535; y11=328; x21=636; y21=518;
+2
+number:[1 2]
+Demo for data/demo/0078.jpg
+Detection took 0.084s for 300 object proposals
+x12=46; y12=389; x22=117; y22=584;
+1
+x12=0; y12=406; x22=30; y22=550;
+2
+x12=541; y12=335; x22=632; y22=536;
+3
+number:[1 2 3]
+Demo for data/demo/0079.jpg
+Detection took 0.084s for 300 object proposals
+x13=527; y13=339; x23=627; y23=521;
+1
+x13=40; y13=381; x23=120; y23=589;
+2
+x13=0; y13=391; x23=50; y23=543;
+3
+number:[1 2 3]
+Demo for data/demo/0080.jpg
+Detection took 0.083s for 300 object proposals
+x14=519; y14=348; x24=601; y24=508;
+1
+x14=0; y14=419; x24=46; y24=579;
+2
+x14=37; y14=389; x24=120; y24=589;
+3
+number:[1 2 3]
+Demo for data/demo/0081.jpg
+Detection took 0.084s for 300 object proposals
+x11=51; y11=403; x21=117; y21=598;
+1
+x11=520; y11=337; x21=590; y21=544;
+2
+x11=0; y11=405; x21=54; y21=573;
+3
+number:[1 2 3]
+Demo for data/demo/0082.jpg
+Detection took 0.082s for 300 object proposals
+x12=57; y12=394; x22=116; y22=608;
+1
+x12=513; y12=346; x22=577; y22=531;
+2
+x12=1; y12=407; x22=61; y22=598;
+3
+number:[1 2 3]
+Demo for data/demo/0083.jpg
+Detection took 0.111s for 300 object proposals
+x13=56; y13=382; x23=139; y23=600;
+1
+x13=488; y13=351; x23=573; y23=536;
+2
+x13=0; y13=386; x23=52; y23=593;
+3
+number:[1 2 3]
+Demo for data/demo/0084.jpg
+Detection took 0.096s for 300 object proposals
+x14=52; y14=385; x24=134; y24=576;
+1
+x14=0; y14=414; x24=66; y24=595;
+2
+x14=476; y14=357; x24=570; y24=523;
+3
+number:[1 2 3]
+Demo for data/demo/0085.jpg
+Detection took 0.085s for 300 object proposals
+x11=482; y11=344; x21=564; y21=542;
+1
+x11=0; y11=408; x21=66; y21=582;
+2
+x11=53; y11=374; x21=132; y21=581;
+3
+number:[1 2 3]
+Demo for data/demo/0086.jpg
+Detection took 0.084s for 300 object proposals
+x12=0; y12=404; x22=69; y22=585;
+1
+x12=464; y12=355; x22=556; y22=541;
+2
+x12=65; y12=387; x22=135; y22=602;
+3
+number:[1 2 3]
+Demo for data/demo/0087.jpg
+Detection took 0.083s for 300 object proposals
+x13=469; y13=364; x23=549; y23=556;
+1
+x13=0; y13=399; x23=65; y23=583;
+2
+x13=69; y13=376; x23=152; y23=603;
+3
+number:[1 2 3]
+Demo for data/demo/0088.jpg
+Detection took 0.086s for 300 object proposals
+x14=0; y14=375; x24=65; y24=594;
+1
+x14=73; y14=373; x24=157; y24=605;
+2
+x14=470; y14=351; x24=534; y24=526;
+3
+number:[1 2 3]
+Demo for data/demo/0089.jpg
+Detection took 0.084s for 300 object proposals
+x11=0; y11=399; x21=61; y21=594;
+1
+x11=459; y11=360; x21=519; y21=542;
+2
+x11=69; y11=386; x21=159; y21=569;
+3
+x11=23; y11=350; x21=83; y21=420;
+4
+number:[1 2 3 4]
+Demo for data/demo/0090.jpg
+Detection took 0.084s for 300 object proposals
+x12=4; y12=384; x22=75; y22=606;
+1
+x12=73; y12=363; x22=172; y22=584;
+2
+x12=451; y12=370; x22=517; y22=537;
+3
+number:[1 2 3]
+Demo for data/demo/0091.jpg
+Detection took 0.083s for 300 object proposals
+x13=4; y13=405; x23=64; y23=610;
+1
+x13=86; y13=365; x23=184; y23=593;
+2
+x13=438; y13=355; x23=518; y23=534;
+3
+number:[1 2 3]
+Demo for data/demo/0092.jpg
+Detection took 0.083s for 300 object proposals
+x14=4; y14=398; x24=76; y24=593;
+1
+x14=98; y14=404; x24=180; y24=591;
+2
+x14=436; y14=352; x24=510; y24=527;
+3
+x14=75; y14=360; x24=134; y24=410;
+4
+number:[1 2 3 4]
+Demo for data/demo/0093.jpg
+Detection took 0.087s for 300 object proposals
+x11=80; y11=382; x21=169; y21=605;
+1
+x11=2; y11=387; x21=61; y21=604;
+2
+x11=408; y11=371; x21=504; y21=538;
+3
+number:[1 2 3]
+Demo for data/demo/0094.jpg
+Detection took 0.085s for 300 object proposals
+x12=0; y12=402; x22=88; y22=599;
+1
+x12=92; y12=356; x22=170; y22=595;
+2
+x12=410; y12=360; x22=481; y22=525;
+3
+number:[1 2 3]
+Demo for data/demo/0095.jpg
+Detection took 0.083s for 300 object proposals
+x13=0; y13=392; x23=75; y23=590;
+1
+x13=98; y13=398; x23=172; y23=603;
+2
+x13=413; y13=350; x23=477; y23=525;
+3
+number:[1 2 3]
+Demo for data/demo/0096.jpg
+Detection took 0.084s for 300 object proposals
+x14=2; y14=387; x24=84; y24=607;
+1
+x14=78; y14=367; x24=192; y24=586;
+2
+x14=393; y14=341; x24=476; y24=528;
+3
+number:[1 2 3]
+Demo for data/demo/0097.jpg
+Detection took 0.083s for 300 object proposals
+x11=0; y11=382; x21=110; y21=611;
+1
+x11=405; y11=319; x21=474; y21=519;
+2
+x11=96; y11=361; x21=191; y21=584;
+3
+number:[1 2 3]
+Demo for data/demo/0098.jpg
+Detection took 0.083s for 300 object proposals
+x12=390; y12=336; x22=462; y22=521;
+1
+x12=9; y12=400; x22=97; y22=623;
+2
+x12=109; y12=356; x22=190; y22=604;
+3
+x12=66; y12=342; x22=127; y22=420;
+4
+number:[1 2 3 4]
+Demo for data/demo/0099.jpg
+Detection took 0.085s for 300 object proposals
+x13=118; y13=390; x23=194; y23=605;
+1
+x13=9; y13=393; x23=107; y23=613;
+2
+x13=381; y13=341; x23=454; y23=536;
+3
+x13=56; y13=352; x23=122; y23=441;
+4
+number:[1 2 3 4]
+Demo for data/demo/0100.jpg
+Detection took 0.084s for 300 object proposals
+x14=107; y14=369; x24=186; y24=600;
+1
+x14=374; y14=362; x24=445; y24=548;
+2
+x14=12; y14=407; x24=91; y24=602;
+3
+x14=70; y14=338; x24=135; y24=438;
+4
+x14=17; y14=367; x24=81; y24=434;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0101.jpg
+Detection took 0.083s for 300 object proposals
+x11=112; y11=376; x21=196; y21=611;
+1
+x11=373; y11=351; x21=447; y21=528;
+2
+x11=13; y11=427; x21=87; y21=607;
+3
+x11=6; y11=357; x21=64; y21=443;
+4
+x11=55; y11=348; x21=116; y21=477;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0102.jpg
+Detection took 0.084s for 300 object proposals
+x12=122; y12=374; x22=206; y22=605;
+1
+x12=372; y12=364; x22=439; y22=552;
+2
+x12=10; y12=392; x22=106; y22=623;
+3
+number:[1 2 3]
+Demo for data/demo/0103.jpg
+Detection took 0.084s for 300 object proposals
+x13=118; y13=381; x23=200; y23=622;
+1
+x13=23; y13=406; x23=111; y23=590;
+2
+x13=367; y13=350; x23=429; y23=522;
+3
+x13=58; y13=341; x23=120; y23=443;
+4
+number:[1 2 3 4]
+Demo for data/demo/0104.jpg
+Detection took 0.084s for 300 object proposals
+x14=351; y14=341; x24=432; y24=538;
+1
+x14=5; y14=392; x24=105; y24=615;
+2
+x14=126; y14=373; x24=200; y24=593;
+3
+x14=8; y14=367; x24=69; y24=426;
+4
+number:[1 2 3 4]
+Demo for data/demo/0105.jpg
+Detection took 0.082s for 300 object proposals
+x11=132; y11=386; x21=217; y21=626;
+1
+x11=16; y11=423; x21=123; y21=624;
+2
+x11=341; y11=339; x21=415; y21=523;
+3
+x11=58; y11=332; x21=124; y21=443;
+4
+number:[1 2 3 4]
+Demo for data/demo/0106.jpg
+Detection took 0.083s for 300 object proposals
+x12=130; y12=385; x22=222; y22=611;
+1
+x12=337; y12=337; x22=419; y22=532;
+2
+x12=33; y12=415; x22=112; y22=606;
+3
+x12=81; y12=378; x22=158; y22=452;
+4
+number:[1 2 3 4]
+Demo for data/demo/0107.jpg
+Detection took 0.083s for 300 object proposals
+x13=325; y13=327; x23=404; y23=533;
+1
+x13=31; y13=407; x23=140; y23=617;
+2
+x13=133; y13=362; x23=215; y23=625;
+3
+x13=14; y13=362; x23=77; y23=426;
+4
+number:[1 2 3 4]
+Demo for data/demo/0108.jpg
+Detection took 0.083s for 300 object proposals
+x14=334; y14=340; x24=412; y24=523;
+1
+x14=122; y14=373; x24=209; y24=600;
+2
+x14=51; y14=401; x24=136; y24=627;
+3
+x14=1; y14=400; x24=19; y24=620;
+4
+number:[1 2 3 4]
+Demo for data/demo/0109.jpg
+Detection took 0.084s for 300 object proposals
+x11=135; y11=370; x21=229; y21=614;
+1
+x11=320; y11=347; x21=403; y21=534;
+2
+x11=25; y11=397; x21=122; y21=635;
+3
+x11=84; y11=375; x21=153; y21=444;
+4
+number:[1 2 3 4]
+Demo for data/demo/0110.jpg
+Detection took 0.085s for 300 object proposals
+x12=136; y12=392; x22=230; y22=616;
+1
+x12=45; y12=398; x22=128; y22=607;
+2
+x12=324; y12=347; x22=396; y22=548;
+3
+x12=1; y12=406; x22=52; y22=621;
+4
+number:[1 2 3 4]
+Demo for data/demo/0111.jpg
+Detection took 0.084s for 300 object proposals
+x13=137; y13=383; x23=224; y23=625;
+1
+x13=52; y13=404; x23=146; y23=622;
+2
+x13=312; y13=333; x23=398; y23=532;
+3
+x13=3; y13=397; x23=54; y23=606;
+4
+number:[1 2 3 4]
+Demo for data/demo/0112.jpg
+Detection took 0.083s for 300 object proposals
+x14=151; y14=383; x24=231; y24=609;
+1
+x14=51; y14=429; x24=135; y24=638;
+2
+x14=328; y14=335; x24=400; y24=538;
+3
+x14=92; y14=367; x24=166; y24=446;
+4
+x14=2; y14=412; x24=46; y24=658;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0113.jpg
+Detection took 0.083s for 300 object proposals
+x11=50; y11=409; x21=139; y21=620;
+1
+x11=318; y11=342; x21=389; y21=510;
+2
+x11=154; y11=408; x21=223; y21=622;
+3
+x11=85; y11=362; x21=158; y21=435;
+4
+x11=6; y11=385; x21=64; y21=454;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0114.jpg
+Detection took 0.083s for 300 object proposals
+x12=306; y12=335; x22=380; y22=537;
+1
+x12=146; y12=388; x22=238; y22=643;
+2
+x12=50; y12=403; x22=144; y22=622;
+3
+x12=4; y12=429; x22=55; y22=621;
+4
+x12=94; y12=351; x22=166; y22=449;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0115.jpg
+Detection took 0.083s for 300 object proposals
+x13=51; y13=395; x23=143; y23=642;
+1
+x13=295; y13=352; x23=363; y23=525;
+2
+x13=160; y13=370; x23=254; y23=624;
+3
+x13=1; y13=441; x23=64; y23=633;
+4
+x13=72; y13=345; x23=137; y23=434;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0116.jpg
+Detection took 0.084s for 300 object proposals
+x14=311; y14=357; x24=380; y24=546;
+1
+x14=141; y14=383; x24=235; y24=629;
+2
+x14=63; y14=406; x24=158; y24=627;
+3
+x14=2; y14=428; x24=66; y24=645;
+4
+x14=104; y14=356; x24=175; y24=432;
+5
+x14=30; y14=354; x24=98; y24=432;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0117.jpg
+Detection took 0.083s for 300 object proposals
+x11=71; y11=411; x21=162; y21=637;
+1
+x11=321; y11=341; x21=380; y21=530;
+2
+x11=165; y11=396; x21=241; y21=621;
+3
+x11=5; y11=422; x21=83; y21=649;
+4
+x11=21; y11=355; x21=85; y21=422;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0118.jpg
+Detection took 0.083s for 300 object proposals
+x12=301; y12=340; x22=357; y22=527;
+1
+x12=83; y12=412; x22=167; y22=624;
+2
+x12=12; y12=393; x22=77; y22=644;
+3
+x12=175; y12=391; x22=261; y22=622;
+4
+number:[1 2 3 4]
+Demo for data/demo/0119.jpg
+Detection took 0.082s for 300 object proposals
+x13=12; y13=414; x23=75; y23=635;
+1
+x13=85; y13=432; x23=162; y23=637;
+2
+x13=167; y13=407; x23=260; y23=633;
+3
+x13=293; y13=334; x23=355; y23=528;
+4
+number:[1 2 3 4]
+Demo for data/demo/0120.jpg
+Detection took 0.085s for 300 object proposals
+x14=86; y14=411; x24=162; y24=634;
+1
+x14=0; y14=417; x24=79; y24=653;
+2
+x14=295; y14=327; x24=358; y24=518;
+3
+x14=174; y14=377; x24=258; y24=609;
+4
+x14=102; y14=357; x24=169; y24=442;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0121.jpg
+Detection took 0.083s for 300 object proposals
+x11=0; y11=430; x21=104; y21=634;
+1
+x11=183; y11=386; x21=277; y21=630;
+2
+x11=90; y11=410; x21=170; y21=634;
+3
+x11=113; y11=357; x21=175; y21=421;
+4
+x11=286; y11=348; x21=349; y21=518;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0122.jpg
+Detection took 0.083s for 300 object proposals
+x12=2; y12=394; x22=86; y22=646;
+1
+x12=76; y12=421; x22=189; y22=640;
+2
+x12=182; y12=394; x22=278; y22=639;
+3
+x12=285; y12=356; x22=356; y22=520;
+4
+x12=127; y12=373; x22=175; y22=465;
+5
+x12=0; y12=364; x22=19; y22=437;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0123.jpg
+Detection took 0.083s for 300 object proposals
+x13=2; y13=418; x23=76; y23=650;
+1
+x13=173; y13=377; x23=286; y23=616;
+2
+x13=92; y13=426; x23=171; y23=635;
+3
+x13=269; y13=345; x23=352; y23=518;
+4
+x13=0; y13=363; x23=31; y23=435;
+5
+x13=93; y13=348; x23=158; y23=456;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0124.jpg
+Detection took 0.085s for 300 object proposals
+x14=0; y14=414; x24=95; y24=659;
+1
+x14=180; y14=380; x24=288; y24=626;
+2
+x14=91; y14=408; x24=181; y24=638;
+3
+x14=278; y14=349; x24=356; y24=510;
+4
+x14=0; y14=389; x24=33; y24=458;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0125.jpg
+Detection took 0.083s for 300 object proposals
+x11=4; y11=408; x21=102; y21=647;
+1
+x11=275; y11=339; x21=347; y21=528;
+2
+x11=188; y11=397; x21=286; y21=652;
+3
+x11=90; y11=426; x21=180; y21=644;
+4
+x11=148; y11=384; x21=207; y21=492;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0126.jpg
+Detection took 0.083s for 300 object proposals
+x12=213; y12=378; x22=308; y22=630;
+1
+x12=98; y12=422; x22=181; y22=627;
+2
+x12=12; y12=419; x22=115; y22=660;
+3
+x12=125; y12=380; x22=183; y22=446;
+4
+number:[1 2 3 4]
+Demo for data/demo/0127.jpg
+Detection took 0.083s for 300 object proposals
+x13=194; y13=399; x23=296; y23=625;
+1
+x13=127; y13=422; x23=206; y23=638;
+2
+x13=15; y13=418; x23=116; y23=661;
+3
+number:[1 2 3]
+Demo for data/demo/0128.jpg
+Detection took 0.086s for 300 object proposals
+x14=203; y14=385; x24=301; y24=650;
+1
+x14=109; y14=403; x24=199; y24=637;
+2
+x14=4; y14=413; x24=120; y24=681;
+3
+number:[1 2 3]
+Demo for data/demo/0129.jpg
+Detection took 0.083s for 300 object proposals
+x11=24; y11=421; x21=117; y21=652;
+1
+x11=121; y11=414; x21=205; y21=648;
+2
+x11=225; y11=392; x21=308; y21=631;
+3
+number:[1 2 3]
+Demo for data/demo/0130.jpg
+Detection took 0.084s for 300 object proposals
+x12=230; y12=364; x22=322; y22=651;
+1
+x12=122; y12=400; x22=211; y22=648;
+2
+x12=40; y12=425; x22=136; y22=671;
+3
+x12=101; y12=353; x22=169; y22=426;
+4
+number:[1 2 3 4]
+Demo for data/demo/0131.jpg
+Detection took 0.083s for 300 object proposals
+x13=227; y13=394; x23=330; y23=647;
+1
+x13=120; y13=400; x23=210; y23=657;
+2
+x13=25; y13=401; x23=114; y23=662;
+3
+number:[1 2 3]
+Demo for data/demo/0132.jpg
+Detection took 0.082s for 300 object proposals
+x14=246; y14=379; x24=330; y24=651;
+1
+x14=37; y14=420; x24=125; y24=663;
+2
+x14=2; y14=420; x24=43; y24=675;
+3
+x14=129; y14=406; x24=217; y24=669;
+4
+x14=82; y14=375; x24=163; y24=469;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0133.jpg
+Detection took 0.083s for 300 object proposals
+x11=235; y11=392; x21=320; y21=661;
+1
+x11=136; y11=410; x21=219; y21=654;
+2
+x11=53; y11=431; x21=140; y21=671;
+3
+x11=0; y11=436; x21=25; y21=705;
+4
+x11=96; y11=356; x21=167; y21=450;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0134.jpg
+Detection took 0.083s for 300 object proposals
+x12=257; y12=371; x22=345; y22=642;
+1
+x12=141; y12=400; x22=221; y22=650;
+2
+x12=0; y12=417; x22=18; y22=701;
+3
+x12=42; y12=423; x22=139; y22=688;
+4
+x12=87; y12=363; x22=162; y22=447;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0135.jpg
+Detection took 0.084s for 300 object proposals
+x13=144; y13=413; x23=230; y23=655;
+1
+x13=237; y13=386; x23=348; y23=647;
+2
+x13=2; y13=424; x23=43; y23=698;
+3
+x13=44; y13=417; x23=131; y23=669;
+4
+x13=116; y13=356; x23=181; y23=428;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0136.jpg
+Detection took 0.083s for 300 object proposals
+x14=253; y14=399; x24=337; y24=606;
+1
+x14=0; y14=401; x24=54; y24=701;
+2
+x14=136; y14=402; x24=230; y24=665;
+3
+x14=60; y14=420; x24=137; y24=678;
+4
+x14=99; y14=381; x24=172; y24=454;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0137.jpg
+Detection took 0.084s for 300 object proposals
+x11=138; y11=388; x21=238; y21=670;
+1
+x11=0; y11=411; x21=68; y21=683;
+2
+x11=245; y11=404; x21=334; y21=637;
+3
+x11=66; y11=422; x21=152; y21=671;
+4
+x11=90; y11=369; x21=158; y21=439;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0138.jpg
+Detection took 0.085s for 300 object proposals
+x12=54; y12=428; x22=144; y22=660;
+1
+x12=135; y12=405; x22=230; y22=653;
+2
+x12=257; y12=403; x22=367; y22=636;
+3
+x12=0; y12=429; x22=62; y22=679;
+4
+x12=102; y12=363; x22=173; y22=464;
+5
+x12=40; y12=361; x22=107; y22=465;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0139.jpg
+Detection took 0.083s for 300 object proposals
+x13=0; y13=439; x23=77; y23=703;
+1
+x13=259; y13=380; x23=374; y23=650;
+2
+x13=79; y13=422; x23=158; y23=670;
+3
+x13=159; y13=410; x23=238; y23=644;
+4
+x13=102; y13=358; x23=162; y23=421;
+5
+x13=17; y13=382; x23=89; y23=473;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0140.jpg
+Detection took 0.084s for 300 object proposals
+x14=268; y14=373; x24=379; y24=656;
+1
+x14=169; y14=415; x24=252; y24=648;
+2
+x14=64; y14=411; x24=161; y24=667;
+3
+x14=1; y14=449; x24=62; y24=692;
+4
+x14=114; y14=377; x24=174; y24=437;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0141.jpg
+Detection took 0.083s for 300 object proposals
+x11=184; y11=398; x21=266; y21=655;
+1
+x11=280; y11=399; x21=382; y21=639;
+2
+x11=97; y11=440; x21=172; y21=679;
+3
+x11=2; y11=437; x21=51; y21=679;
+4
+x11=112; y11=382; x21=178; y21=450;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0142.jpg
+Detection took 0.085s for 300 object proposals
+x12=7; y12=445; x22=69; y22=680;
+1
+x12=101; y12=428; x22=178; y22=668;
+2
+x12=169; y12=420; x22=262; y22=668;
+3
+x12=281; y12=376; x22=393; y22=649;
+4
+x12=107; y12=371; x22=179; y22=452;
+5
+x12=231; y12=355; x22=297; y22=432;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0143.jpg
+Detection took 0.083s for 300 object proposals
+x13=295; y13=362; x23=385; y23=641;
+1
+x13=4; y13=435; x23=63; y23=714;
+2
+x13=86; y13=442; x23=187; y23=687;
+3
+x13=184; y13=416; x23=279; y23=649;
+4
+number:[1 2 3 4]
+Demo for data/demo/0144.jpg
+Detection took 0.084s for 300 object proposals
+x14=301; y14=396; x24=393; y24=651;
+1
+x14=94; y14=421; x24=174; y24=688;
+2
+x14=3; y14=403; x24=53; y24=707;
+3
+x14=206; y14=414; x24=288; y24=672;
+4
+number:[1 2 3 4]
+Demo for data/demo/0145.jpg
+Detection took 0.085s for 300 object proposals
+x11=302; y11=400; x21=410; y21=662;
+1
+x11=2; y11=395; x21=82; y21=716;
+2
+x11=99; y11=415; x21=186; y21=664;
+3
+x11=215; y11=419; x21=296; y21=659;
+4
+x11=97; y11=369; x21=182; y21=441;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0146.jpg
+Detection took 0.083s for 300 object proposals
+x12=0; y12=407; x22=75; y22=684;
+1
+x12=311; y12=400; x22=411; y22=642;
+2
+x12=199; y12=401; x22=282; y22=654;
+3
+x12=99; y12=417; x22=176; y22=690;
+4
+number:[1 2 3 4]
+Demo for data/demo/0147.jpg
+Detection took 0.085s for 300 object proposals
+x13=9; y13=405; x23=84; y23=716;
+1
+x13=200; y13=424; x23=294; y23=670;
+2
+x13=322; y13=379; x23=422; y23=668;
+3
+x13=96; y13=426; x23=206; y23=665;
+4
+x13=130; y13=386; x23=188; y23=444;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0148.jpg
+Detection took 0.085s for 300 object proposals
+x14=2; y14=407; x24=86; y24=721;
+1
+x14=197; y14=408; x24=289; y24=655;
+2
+x14=108; y14=443; x24=186; y24=686;
+3
+x14=323; y14=388; x24=424; y24=663;
+4
+x14=114; y14=382; x24=182; y24=453;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0149.jpg
+Detection took 0.083s for 300 object proposals
+x11=3; y11=390; x21=96; y21=695;
+1
+x11=211; y11=392; x21=306; y21=683;
+2
+x11=128; y11=423; x21=215; y21=673;
+3
+x11=323; y11=372; x21=414; y21=665;
+4
+x11=110; y11=377; x21=176; y21=458;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0150.jpg
+Detection took 0.084s for 300 object proposals
+x12=227; y12=392; x22=313; y22=667;
+1
+x12=135; y12=423; x22=221; y22=689;
+2
+x12=328; y12=387; x22=413; y22=650;
+3
+x12=3; y12=433; x22=114; y22=705;
+4
+number:[1 2 3 4]
+Demo for data/demo/0151.jpg
+Detection took 0.084s for 300 object proposals
+x13=22; y13=421; x23=129; y23=698;
+1
+x13=121; y13=410; x23=214; y23=692;
+2
+x13=217; y13=411; x23=318; y23=663;
+3
+x13=331; y13=404; x23=434; y23=661;
+4
+x13=106; y13=369; x23=189; y23=452;
+5
+x13=220; y13=344; x23=276; y23=415;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0152.jpg
+Detection took 0.083s for 300 object proposals
+x14=341; y14=365; x24=422; y24=659;
+1
+x14=221; y14=427; x24=307; y24=679;
+2
+x14=129; y14=415; x24=225; y24=703;
+3
+x14=5; y14=418; x24=119; y24=690;
+4
+x14=80; y14=360; x24=151; y24=432;
+5
+x14=225; y14=350; x24=284; y24=432;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0153.jpg
+Detection took 0.085s for 300 object proposals
+x11=325; y11=360; x21=438; y21=656;
+1
+x11=5; y11=392; x21=121; y21=696;
+2
+x11=240; y11=403; x21=322; y21=674;
+3
+x11=124; y11=429; x21=213; y21=707;
+4
+x11=85; y11=370; x21=159; y21=451;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0154.jpg
+Detection took 0.085s for 300 object proposals
+x12=228; y12=417; x22=299; y22=667;
+1
+x12=148; y12=391; x22=240; y22=700;
+2
+x12=343; y12=352; x22=442; y22=658;
+3
+x12=8; y12=381; x22=150; y22=718;
+4
+x12=106; y12=354; x22=181; y22=461;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0155.jpg
+Detection took 0.082s for 300 object proposals
+x13=232; y13=393; x23=324; y23=678;
+1
+x13=132; y13=435; x23=229; y23=696;
+2
+x13=363; y13=384; x23=473; y23=655;
+3
+x13=33; y13=412; x23=144; y23=689;
+4
+number:[1 2 3 4]
+Demo for data/demo/0156.jpg
+Detection took 0.083s for 300 object proposals
+x14=230; y14=402; x24=336; y24=684;
+1
+x14=359; y14=360; x24=461; y24=688;
+2
+x14=160; y14=426; x24=237; y24=699;
+3
+x14=46; y14=433; x24=161; y24=713;
+4
+x14=200; y14=342; x24=256; y24=433;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0157.jpg
+Detection took 0.084s for 300 object proposals
+x11=36; y11=393; x21=174; y21=721;
+1
+x11=229; y11=398; x21=331; y21=677;
+2
+x11=165; y11=413; x21=239; y21=691;
+3
+x11=359; y11=358; x21=465; y21=667;
+4
+number:[1 2 3 4]
+Demo for data/demo/0158.jpg
+Detection took 0.085s for 300 object proposals
+x12=40; y12=396; x22=149; y22=725;
+1
+x12=252; y12=418; x22=356; y22=669;
+2
+x12=373; y12=381; x22=499; y22=667;
+3
+x12=165; y12=433; x22=260; y22=688;
+4
+x12=203; y12=369; x22=274; y22=443;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0159.jpg
+Detection took 0.083s for 300 object proposals
+x13=129; y13=436; x23=243; y23=695;
+1
+x13=379; y13=383; x23=479; y23=682;
+2
+x13=283; y13=434; x23=359; y23=666;
+3
+x13=0; y13=485; x23=44; y23=744;
+4
+x13=198; y13=373; x23=265; y23=452;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0160.jpg
+Detection took 0.084s for 300 object proposals
+x14=154; y14=426; x24=266; y24=720;
+1
+x14=375; y14=398; x24=504; y24=661;
+2
+x14=266; y14=412; x24=359; y24=679;
+3
+x14=0; y14=474; x24=43; y24=742;
+4
+x14=63; y14=407; x24=148; y24=733;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0161.jpg
+Detection took 0.083s for 300 object proposals
+x11=408; y11=379; x21=509; y21=692;
+1
+x11=0; y11=475; x21=71; y21=749;
+2
+x11=190; y11=437; x21=282; y21=703;
+3
+x11=275; y11=419; x21=374; y21=662;
+4
+x11=74; y11=400; x21=170; y21=731;
+5
+x11=257; y11=378; x21=323; y21=462;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0162.jpg
+Detection took 0.084s for 300 object proposals
+x12=89; y12=383; x22=201; y22=727;
+1
+x12=0; y12=446; x22=61; y22=740;
+2
+x12=291; y12=420; x22=378; y22=685;
+3
+x12=413; y12=378; x22=505; y22=666;
+4
+x12=180; y12=439; x22=288; y22=703;
+5
+x12=192; y12=370; x22=262; y22=456;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0163.jpg
+Detection took 0.084s for 300 object proposals
+x13=0; y13=435; x23=56; y23=741;
+1
+x13=411; y13=413; x23=501; y23=679;
+2
+x13=289; y13=403; x23=390; y23=697;
+3
+x13=178; y13=432; x23=275; y23=693;
+4
+x13=103; y13=402; x23=197; y23=746;
+5
+x13=180; y13=360; x23=257; y23=463;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0164.jpg
+Detection took 0.084s for 300 object proposals
+x14=294; y14=411; x24=392; y24=679;
+1
+x14=100; y14=368; x24=217; y24=727;
+2
+x14=403; y14=397; x24=501; y24=679;
+3
+x14=200; y14=412; x24=285; y24=716;
+4
+x14=2; y14=460; x24=69; y24=751;
+5
+x14=277; y14=389; x24=348; y24=462;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0165.jpg
+Detection took 0.083s for 300 object proposals
+x11=294; y11=399; x21=385; y21=681;
+1
+x11=438; y11=384; x21=513; y21=683;
+2
+x11=101; y11=413; x21=201; y21=751;
+3
+x11=0; y11=418; x21=95; y21=745;
+4
+x11=210; y11=423; x21=294; y21=700;
+5
+x11=179; y11=362; x21=254; y21=444;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0166.jpg
+Detection took 0.082s for 300 object proposals
+x12=0; y12=432; x22=78; y22=766;
+1
+x12=109; y12=387; x22=234; y22=737;
+2
+x12=318; y12=424; x22=408; y22=696;
+3
+x12=435; y12=381; x22=535; y22=710;
+4
+x12=222; y12=415; x22=308; y22=716;
+5
+x12=194; y12=368; x22=253; y22=425;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0167.jpg
+Detection took 0.085s for 300 object proposals
+x13=0; y13=441; x23=108; y23=752;
+1
+x13=322; y13=441; x23=414; y23=681;
+2
+x13=123; y13=414; x23=240; y23=737;
+3
+x13=425; y13=385; x23=535; y23=662;
+4
+x13=212; y13=403; x23=267; y23=451;
+5
+x13=133; y13=375; x23=209; y23=450;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0168.jpg
+Detection took 0.086s for 300 object proposals
+x14=0; y14=431; x24=113; y24=778;
+1
+x14=127; y14=406; x24=227; y24=735;
+2
+x14=231; y14=417; x24=314; y24=720;
+3
+x14=428; y14=370; x24=544; y24=674;
+4
+x14=303; y14=425; x24=419; y24=704;
+5
+x14=204; y14=406; x24=262; y24=460;
+6
+x14=287; y14=363; x24=352; y24=441;
+7
+x14=132; y14=378; x24=197; y24=453;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0169.jpg
+Detection took 0.086s for 300 object proposals
+x11=0; y11=456; x21=109; y21=753;
+1
+x11=136; y11=395; x21=241; y21=746;
+2
+x11=311; y11=433; x21=414; y21=701;
+3
+x11=422; y11=385; x21=534; y21=691;
+4
+x11=226; y11=436; x21=321; y21=722;
+5
+x11=122; y11=370; x21=188; y21=431;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0170.jpg
+Detection took 0.083s for 300 object proposals
+x12=14; y12=429; x22=103; y22=762;
+1
+x12=134; y12=415; x22=235; y22=745;
+2
+x12=331; y12=434; x22=425; y22=705;
+3
+x12=452; y12=385; x22=554; y22=675;
+4
+x12=229; y12=449; x22=324; y22=728;
+5
+x12=287; y12=363; x22=356; y22=464;
+6
+x12=224; y12=411; x22=288; y22=469;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0171.jpg
+Detection took 0.083s for 300 object proposals
+x13=0; y13=440; x23=118; y23=786;
+1
+x13=451; y13=361; x23=565; y23=686;
+2
+x13=349; y13=424; x23=437; y23=707;
+3
+x13=229; y13=453; x23=329; y23=742;
+4
+x13=145; y13=409; x23=240; y23=763;
+5
+x13=295; y13=379; x23=374; y23=449;
+6
+x13=134; y13=377; x23=201; y23=459;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0172.jpg
+Detection took 0.083s for 300 object proposals
+x14=345; y14=440; x24=431; y24=699;
+1
+x14=0; y14=450; x24=129; y24=756;
+2
+x14=240; y14=429; x24=332; y24=736;
+3
+x14=482; y14=371; x24=577; y24=676;
+4
+x14=152; y14=400; x24=251; y24=745;
+5
+x14=140; y14=375; x24=196; y24=447;
+6
+x14=224; y14=425; x24=291; y24=473;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0173.jpg
+Detection took 0.082s for 300 object proposals
+x11=0; y11=442; x21=129; y21=783;
+1
+x11=247; y11=429; x21=344; y21=730;
+2
+x11=348; y11=418; x21=434; y21=719;
+3
+x11=148; y11=398; x21=263; y21=761;
+4
+x11=480; y11=402; x21=593; y21=682;
+5
+x11=210; y11=400; x21=278; y21=459;
+6
+x11=298; y11=379; x21=386; y21=456;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0174.jpg
+Detection took 0.084s for 300 object proposals
+x12=0; y12=432; x22=130; y22=811;
+1
+x12=468; y12=369; x22=608; y22=676;
+2
+x12=146; y12=400; x22=260; y22=760;
+3
+x12=356; y12=410; x22=452; y22=707;
+4
+x12=248; y12=417; x22=351; y22=743;
+5
+x12=302; y12=386; x22=393; y22=450;
+6
+x12=132; y12=380; x22=195; y22=445;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0175.jpg
+Detection took 0.084s for 300 object proposals
+x13=5; y13=430; x23=147; y23=804;
+1
+x13=470; y13=388; x23=612; y23=709;
+2
+x13=351; y13=423; x23=469; y23=694;
+3
+x13=223; y13=426; x23=352; y23=749;
+4
+x13=126; y13=342; x23=178; y23=530;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0176.jpg
+Detection took 0.084s for 300 object proposals
+x14=481; y14=384; x24=631; y24=693;
+1
+x14=21; y14=446; x24=157; y24=790;
+2
+x14=361; y14=448; x24=472; y24=701;
+3
+x14=194; y14=424; x24=293; y24=768;
+4
+x14=125; y14=324; x24=179; y24=532;
+5
+x14=250; y14=402; x24=312; y24=466;
+6
+x14=298; y14=376; x24=389; y24=458;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0177.jpg
+Detection took 0.088s for 300 object proposals
+x11=3; y11=438; x21=154; y21=766;
+1
+x11=508; y11=367; x21=627; y21=689;
+2
+x11=175; y11=396; x21=292; y21=763;
+3
+x11=356; y11=438; x21=483; y21=718;
+4
+x11=255; y11=372; x21=311; y21=428;
+5
+x11=114; y11=371; x21=176; y21=518;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0178.jpg
+Detection took 0.086s for 300 object proposals
+x12=514; y12=362; x22=620; y22=716;
+1
+x12=27; y12=429; x22=153; y22=785;
+2
+x12=361; y12=448; x22=492; y22=724;
+3
+x12=188; y12=409; x22=294; y22=784;
+4
+x12=119; y12=348; x22=182; y22=534;
+5
+x12=247; y12=391; x22=315; y22=461;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0179.jpg
+Detection took 0.086s for 300 object proposals
+x13=527; y13=370; x23=632; y23=726;
+1
+x13=34; y13=445; x23=150; y23=770;
+2
+x13=187; y13=424; x23=320; y23=766;
+3
+x13=129; y13=365; x23=193; y23=488;
+4
+x13=401; y13=435; x23=488; y23=720;
+5
+x13=243; y13=405; x23=300; y23=466;
+6
+x13=0; y13=487; x23=17; y23=701;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0180.jpg
+Detection took 0.082s for 300 object proposals
+x14=46; y14=435; x24=166; y24=809;
+1
+x14=126; y14=348; x24=190; y24=510;
+2
+x14=401; y14=427; x24=490; y24=718;
+3
+x14=542; y14=384; x24=629; y24=706;
+4
+x14=292; y14=443; x24=401; y24=744;
+5
+x14=199; y14=425; x24=306; y24=751;
+6
+x14=273; y14=394; x24=349; y24=441;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0181.jpg
+Detection took 0.081s for 300 object proposals
+x11=46; y11=467; x21=171; y21=797;
+1
+x11=208; y11=413; x21=320; y21=768;
+2
+x11=411; y11=421; x21=505; y21=721;
+3
+x11=525; y11=372; x21=645; y21=723;
+4
+x11=104; y11=346; x21=172; y21=488;
+5
+x11=275; y11=408; x21=351; y21=464;
+6
+x11=308; y11=445; x21=406; y21=752;
+7
+x11=409; y11=413; x21=476; y21=462;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0182.jpg
+Detection took 0.084s for 300 object proposals
+x12=552; y12=380; x22=666; y22=713;
+1
+x12=62; y12=460; x22=208; y22=818;
+2
+x12=409; y12=401; x22=520; y22=747;
+3
+x12=222; y12=433; x22=323; y22=774;
+4
+x12=319; y12=419; x22=409; y22=736;
+5
+x12=124; y12=371; x22=191; y22=506;
+6
+x12=272; y12=415; x22=344; y22=471;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0183.jpg
+Detection took 0.082s for 300 object proposals
+x13=423; y13=437; x23=527; y23=745;
+1
+x13=328; y13=444; x23=425; y23=754;
+2
+x13=559; y13=359; x23=669; y23=705;
+3
+x13=62; y13=461; x23=213; y23=819;
+4
+x13=231; y13=411; x23=343; y23=795;
+5
+x13=282; y13=382; x23=352; y23=437;
+6
+x13=125; y13=353; x23=188; y23=503;
+7
+x13=419; y13=398; x23=476; y23=453;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0184.jpg
+Detection took 0.084s for 300 object proposals
+x14=421; y14=434; x24=515; y24=738;
+1
+x14=564; y14=398; x24=667; y24=700;
+2
+x14=55; y14=457; x24=240; y24=821;
+3
+x14=332; y14=422; x24=421; y24=749;
+4
+x14=250; y14=400; x24=350; y24=786;
+5
+x14=105; y14=345; x24=165; y24=493;
+6
+x14=407; y14=367; x24=465; y24=422;
+7
+x14=198; y14=410; x24=249; y24=585;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0185.jpg
+Detection took 0.081s for 300 object proposals
+x11=429; y11=427; x21=547; y21=733;
+1
+x11=77; y11=434; x21=224; y21=815;
+2
+x11=562; y11=378; x21=693; y21=693;
+3
+x11=244; y11=420; x21=360; y21=772;
+4
+x11=343; y11=438; x21=446; y21=743;
+5
+x11=278; y11=382; x21=362; y21=464;
+6
+x11=0; y11=495; x21=75; y21=859;
+7
+x11=107; y11=356; x21=159; y21=490;
+8
+x11=399; y11=376; x21=456; y21=425;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0186.jpg
+Detection took 0.084s for 300 object proposals
+x12=254; y12=425; x22=353; y22=774;
+1
+x12=96; y12=449; x22=224; y22=828;
+2
+x12=576; y12=399; x22=687; y22=709;
+3
+x12=436; y12=417; x22=540; y22=748;
+4
+x12=353; y12=444; x22=447; y22=736;
+5
+x12=273; y12=386; x22=353; y22=454;
+6
+x12=5; y12=479; x22=99; y22=841;
+7
+x12=103; y12=338; x22=159; y22=473;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0187.jpg
+Detection took 0.086s for 300 object proposals
+x13=265; y13=403; x23=365; y23=795;
+1
+x13=593; y13=364; x23=695; y23=714;
+2
+x13=107; y13=439; x23=232; y23=818;
+3
+x13=433; y13=433; x23=535; y23=745;
+4
+x13=352; y13=443; x23=445; y23=772;
+5
+x13=0; y13=491; x23=80; y23=837;
+6
+x13=100; y13=352; x23=166; y23=464;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0188.jpg
+Detection took 0.088s for 300 object proposals
+x14=431; y14=441; x24=547; y24=694;
+1
+x14=595; y14=364; x24=695; y24=701;
+2
+x14=125; y14=414; x24=249; y24=834;
+3
+x14=274; y14=410; x24=385; y24=791;
+4
+x14=0; y14=481; x24=93; y24=836;
+5
+x14=108; y14=338; x24=157; y24=474;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0189.jpg
+Detection took 0.084s for 300 object proposals
+x11=451; y11=436; x21=555; y21=711;
+1
+x11=591; y11=353; x21=713; y21=727;
+2
+x11=355; y11=423; x21=447; y21=769;
+3
+x11=129; y11=430; x21=259; y21=839;
+4
+x11=0; y11=450; x21=88; y21=857;
+5
+x11=95; y11=339; x21=158; y21=498;
+6
+x11=272; y11=423; x21=372; y21=781;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0190.jpg
+Detection took 0.082s for 300 object proposals
+x12=614; y12=372; x22=733; y22=719;
+1
+x12=462; y12=425; x22=573; y22=743;
+2
+x12=99; y12=340; x22=156; y22=497;
+3
+x12=113; y12=421; x22=262; y22=826;
+4
+x12=373; y12=425; x22=474; y22=763;
+5
+x12=0; y12=450; x22=104; y22=866;
+6
+x12=281; y12=421; x22=378; y22=799;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0191.jpg
+Detection took 0.085s for 300 object proposals
+x13=453; y13=438; x23=574; y23=735;
+1
+x13=98; y13=358; x23=154; y23=494;
+2
+x13=0; y13=454; x23=103; y23=831;
+3
+x13=143; y13=456; x23=260; y23=833;
+4
+x13=357; y13=408; x23=475; y23=787;
+5
+x13=609; y13=372; x23=729; y23=718;
+6
+x13=283; y13=402; x23=362; y23=811;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0192.jpg
+Detection took 0.084s for 300 object proposals
+x14=608; y14=408; x24=750; y24=732;
+1
+x14=384; y14=442; x24=518; y24=776;
+2
+x14=0; y14=416; x24=109; y24=876;
+3
+x14=291; y14=435; x24=380; y24=798;
+4
+x14=119; y14=455; x24=282; y24=802;
+5
+x14=99; y14=367; x24=157; y24=479;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0193.jpg
+Detection took 0.084s for 300 object proposals
+x11=630; y11=376; x21=755; y21=712;
+1
+x11=13; y11=445; x21=112; y21=906;
+2
+x11=389; y11=421; x21=496; y21=782;
+3
+x11=147; y11=461; x21=285; y21=832;
+4
+x11=489; y11=437; x21=587; y21=711;
+5
+x11=98; y11=362; x21=146; y21=472;
+6
+x11=355; y11=376; x21=414; y21=450;
+7
+x11=220; y11=415; x21=298; y21=519;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0194.jpg
+Detection took 0.082s for 300 object proposals
+x12=0; y12=435; x22=137; y22=874;
+1
+x12=498; y12=434; x22=639; y22=751;
+2
+x12=396; y12=422; x22=509; y22=776;
+3
+x12=86; y12=355; x22=138; y22=478;
+4
+x12=649; y12=384; x22=765; y22=726;
+5
+x12=165; y12=459; x22=306; y22=843;
+6
+x12=237; y12=399; x22=318; y22=502;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0195.jpg
+Detection took 0.083s for 300 object proposals
+x13=0; y13=437; x23=135; y23=904;
+1
+x13=164; y13=455; x23=311; y23=841;
+2
+x13=659; y13=395; x23=756; y23=727;
+3
+x13=510; y13=442; x23=644; y23=763;
+4
+x13=385; y13=430; x23=505; y23=807;
+5
+x13=84; y13=350; x23=138; y23=465;
+6
+x13=318; y13=441; x23=398; y23=833;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0196.jpg
+Detection took 0.091s for 300 object proposals
+x14=0; y14=430; x24=153; y24=914;
+1
+x14=664; y14=393; x24=779; y24=731;
+2
+x14=385; y14=407; x24=520; y24=802;
+3
+x14=502; y14=426; x24=651; y24=748;
+4
+x14=178; y14=452; x24=301; y24=845;
+5
+x14=66; y14=332; x24=130; y24=482;
+6
+x14=243; y14=383; x24=330; y24=496;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0197.jpg
+Detection took 0.084s for 300 object proposals
+x11=1; y11=442; x21=159; y21=916;
+1
+x11=528; y11=430; x21=652; y21=732;
+2
+x11=179; y11=481; x21=321; y21=877;
+3
+x11=675; y11=387; x21=782; y21=742;
+4
+x11=345; y11=398; x21=464; y21=807;
+5
+x11=69; y11=349; x21=134; y21=511;
+6
+x11=456; y11=449; x21=539; y21=761;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0198.jpg
+Detection took 0.082s for 300 object proposals
+x12=8; y12=462; x22=160; y22=903;
+1
+x12=529; y12=433; x22=653; y22=763;
+2
+x12=445; y12=445; x22=524; y22=780;
+3
+x12=187; y12=434; x22=317; y22=862;
+4
+x12=336; y12=402; x22=462; y22=825;
+5
+x12=679; y12=372; x22=799; y22=729;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0199.jpg
+Detection took 0.087s for 300 object proposals
+x13=7; y13=456; x23=180; y23=931;
+1
+x13=541; y13=443; x23=656; y23=749;
+2
+x13=693; y13=391; x23=791; y23=742;
+3
+x13=183; y13=444; x23=343; y23=868;
+4
+x13=446; y13=446; x23=546; y23=765;
+5
+x13=349; y13=401; x23=460; y23=855;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0200.jpg
+Detection took 0.083s for 300 object proposals
+x14=552; y14=426; x24=673; y24=743;
+1
+x14=436; y14=434; x24=551; y24=770;
+2
+x14=22; y14=427; x24=167; y24=938;
+3
+x14=683; y14=382; x24=820; y24=751;
+4
+x14=202; y14=476; x24=347; y24=879;
+5
+x14=66; y14=349; x24=128; y24=496;
+6
+x14=350; y14=411; x24=448; y24=850;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0201.jpg
+Detection took 0.083s for 300 object proposals
+x11=554; y11=435; x21=666; y21=748;
+1
+x11=686; y11=407; x21=828; y21=743;
+2
+x11=11; y11=456; x21=149; y21=929;
+3
+x11=186; y11=455; x21=332; y21=850;
+4
+x11=470; y11=437; x21=557; y21=778;
+5
+x11=70; y11=356; x21=140; y21=471;
+6
+x11=373; y11=430; x21=490; y21=847;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0202.jpg
+Detection took 0.085s for 300 object proposals
+x12=564; y12=427; x22=692; y22=754;
+1
+x12=684; y12=413; x22=836; y22=717;
+2
+x12=46; y12=421; x22=184; y22=921;
+3
+x12=382; y12=414; x22=483; y22=819;
+4
+x12=226; y12=488; x22=338; y22=876;
+5
+x12=476; y12=464; x22=554; y22=801;
+6
+x12=59; y12=340; x22=124; y22=482;
+7
+x12=263; y12=399; x22=351; y22=551;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0203.jpg
+Detection took 0.085s for 300 object proposals
+x13=573; y13=425; x23=688; y23=787;
+1
+x13=696; y13=411; x23=858; y23=734;
+2
+x13=379; y13=432; x23=511; y23=863;
+3
+x13=8; y13=432; x23=175; y23=879;
+4
+x13=53; y13=348; x23=141; y23=508;
+5
+x13=490; y13=455; x23=575; y23=769;
+6
+x13=216; y13=519; x23=334; y23=872;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0204.jpg
+Detection took 0.085s for 300 object proposals
+x14=705; y14=373; x24=840; y24=744;
+1
+x14=593; y14=427; x24=696; y24=776;
+2
+x14=409; y14=413; x24=491; y24=837;
+3
+x14=39; y14=431; x24=207; y24=906;
+4
+x14=54; y14=336; x24=129; y24=485;
+5
+x14=481; y14=441; x24=590; y24=797;
+6
+x14=228; y14=448; x24=365; y24=844;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0205.jpg
+Detection took 0.084s for 300 object proposals
+x11=732; y11=364; x21=859; y21=733;
+1
+x11=576; y11=426; x21=697; y21=764;
+2
+x11=30; y11=447; x21=221; y21=925;
+3
+x11=415; y11=434; x21=525; y21=838;
+4
+x11=511; y11=453; x21=591; y21=799;
+5
+x11=240; y11=445; x21=354; y21=875;
+6
+x11=53; y11=345; x21=127; y21=494;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0206.jpg
+Detection took 0.096s for 300 object proposals
+x12=589; y12=445; x22=719; y22=755;
+1
+x12=42; y12=455; x22=211; y22=913;
+2
+x12=747; y12=408; x22=864; y22=726;
+3
+x12=47; y12=337; x22=115; y22=496;
+4
+x12=420; y12=441; x22=528; y22=841;
+5
+x12=246; y12=411; x22=386; y22=895;
+6
+x12=519; y12=440; x22=596; y22=794;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0207.jpg
+Detection took 0.098s for 300 object proposals
+x13=602; y13=447; x23=711; y23=762;
+1
+x13=756; y13=399; x23=878; y23=744;
+2
+x13=37; y13=447; x23=227; y23=927;
+3
+x13=406; y13=388; x23=532; y23=854;
+4
+x13=226; y13=460; x23=377; y23=885;
+5
+x13=511; y13=434; x23=592; y23=773;
+6
+x13=58; y13=349; x23=118; y23=476;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0208.jpg
+Detection took 0.084s for 300 object proposals
+x14=47; y14=450; x24=235; y24=947;
+1
+x14=623; y14=413; x24=733; y24=767;
+2
+x14=751; y14=390; x24=900; y24=735;
+3
+x14=483; y14=419; x24=621; y24=794;
+4
+x14=255; y14=461; x24=374; y24=895;
+5
+x14=50; y14=354; x24=129; y24=506;
+6
+x14=349; y14=427; x24=439; y24=696;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0209.jpg
+Detection took 0.088s for 300 object proposals
+x11=605; y11=440; x21=748; y21=750;
+1
+x11=762; y11=436; x21=945; y21=776;
+2
+x11=76; y11=416; x21=247; y21=952;
+3
+x11=261; y11=447; x21=379; y21=880;
+4
+x11=432; y11=459; x21=570; y21=831;
+5
+x11=52; y11=340; x21=114; y21=499;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0210.jpg
+Detection took 0.084s for 300 object proposals
+x12=784; y12=410; x22=915; y22=724;
+1
+x12=75; y12=454; x22=250; y22=951;
+2
+x12=604; y12=445; x22=753; y22=763;
+3
+x12=443; y12=423; x22=585; y22=846;
+4
+x12=51; y12=341; x22=111; y22=471;
+5
+x12=266; y12=425; x22=393; y22=896;
+6
+x12=523; y12=366; x22=604; y22=484;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0211.jpg
+Detection took 0.086s for 300 object proposals
+x13=801; y13=409; x23=933; y23=735;
+1
+x13=628; y13=432; x23=778; y23=788;
+2
+x13=81; y13=461; x23=255; y23=957;
+3
+x13=439; y13=421; x23=594; y23=814;
+4
+x13=282; y13=424; x23=413; y23=898;
+5
+x13=39; y13=354; x23=113; y23=513;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0212.jpg
+Detection took 0.084s for 300 object proposals
+x14=96; y14=411; x24=261; y24=965;
+1
+x14=640; y14=438; x24=788; y24=794;
+2
+x14=268; y14=417; x24=397; y24=911;
+3
+x14=820; y14=402; x24=947; y24=752;
+4
+x14=447; y14=420; x24=600; y24=851;
+5
+x14=41; y14=343; x24=108; y24=489;
+6
+x14=347; y14=394; x24=419; y24=538;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0213.jpg
+Detection took 0.082s for 300 object proposals
+x11=643; y11=412; x21=800; y21=805;
+1
+x11=473; y11=403; x21=613; y21=847;
+2
+x11=277; y11=379; x21=420; y21=988;
+3
+x11=85; y11=468; x21=279; y21=953;
+4
+x11=800; y11=413; x21=943; y21=769;
+5
+x11=32; y11=347; x21=102; y21=474;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0214.jpg
+Detection took 0.086s for 300 object proposals
+x12=661; y12=440; x22=796; y22=794;
+1
+x12=119; y12=458; x22=280; y22=1000;
+2
+x12=822; y12=411; x22=952; y22=785;
+3
+x12=310; y12=394; x22=433; y22=953;
+4
+x12=28; y12=359; x22=104; y22=491;
+5
+x12=598; y12=418; x22=676; y22=819;
+6
+x12=492; y12=402; x22=603; y22=878;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0215.jpg
+Detection took 0.085s for 300 object proposals
+x13=674; y13=443; x23=795; y23=768;
+1
+x13=848; y13=363; x23=955; y23=769;
+2
+x13=98; y13=439; x23=289; y23=983;
+3
+x13=287; y13=447; x23=430; y23=938;
+4
+x13=42; y13=353; x23=105; y23=500;
+5
+x13=566; y13=415; x23=681; y23=857;
+6
+x13=361; y13=384; x23=441; y23=549;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0216.jpg
+Detection took 0.083s for 300 object proposals
+x14=700; y14=447; x24=814; y24=786;
+1
+x14=606; y14=426; x24=710; y24=844;
+2
+x14=317; y14=447; x24=436; y24=977;
+3
+x14=106; y14=483; x24=304; y24=964;
+4
+x14=839; y14=382; x24=967; y24=797;
+5
+x14=42; y14=357; x24=92; y24=491;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0217.jpg
+Detection took 0.086s for 300 object proposals
+x11=700; y11=436; x21=831; y21=789;
+1
+x11=840; y11=381; x21=994; y21=764;
+2
+x11=136; y11=445; x21=289; y21=1003;
+3
+x11=312; y11=467; x21=462; y21=946;
+4
+x11=22; y11=345; x21=92; y21=502;
+5
+x11=532; y11=417; x21=641; y21=868;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0218.jpg
+Detection took 0.087s for 300 object proposals
+x12=727; y12=424; x22=826; y22=789;
+1
+x12=871; y12=419; x22=986; y22=779;
+2
+x12=144; y12=438; x22=297; y22=1010;
+3
+x12=531; y12=409; x22=685; y22=874;
+4
+x12=313; y12=448; x22=451; y22=973;
+5
+x12=32; y12=353; x22=92; y22=489;
+6
+x12=459; y12=415; x22=552; y22=690;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0219.jpg
+Detection took 0.084s for 300 object proposals
+x13=718; y13=452; x23=832; y23=807;
+1
+x13=875; y13=384; x23=1009; y23=799;
+2
+x13=129; y13=483; x23=300; y23=913;
+3
+x13=334; y13=443; x23=459; y23=945;
+4
+x13=600; y13=412; x23=722; y23=918;
+5
+x13=25; y13=331; x23=89; y23=491;
+6
+x13=481; y13=401; x23=548; y23=659;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0220.jpg
+Detection took 0.091s for 300 object proposals
+x14=861; y14=372; x24=1026; y24=813;
+1
+x14=131; y14=458; x24=312; y24=1010;
+2
+x14=727; y14=450; x24=851; y24=790;
+3
+x14=625; y14=436; x24=749; y24=862;
+4
+x14=324; y14=463; x24=478; y24=954;
+5
+x14=21; y14=332; x24=77; y24=489;
+6
+x14=475; y14=377; x24=534; y24=634;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0221.jpg
+Detection took 0.087s for 300 object proposals
+x11=744; y11=437; x21=876; y21=817;
+1
+x11=884; y11=399; x21=1016; y21=781;
+2
+x11=132; y11=455; x21=313; y21=985;
+3
+x11=352; y11=441; x21=483; y21=969;
+4
+x11=579; y11=402; x21=697; y21=898;
+5
+x11=26; y11=344; x21=87; y21=501;
+6
+x11=490; y11=412; x21=576; y21=688;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0222.jpg
+Detection took 0.088s for 300 object proposals
+x12=743; y12=466; x22=883; y22=802;
+1
+x12=909; y12=376; x22=1041; y22=802;
+2
+x12=594; y12=399; x22=725; y22=900;
+3
+x12=23; y12=350; x22=83; y22=482;
+4
+x12=153; y12=435; x22=362; y22=1035;
+5
+x12=359; y12=457; x22=507; y22=970;
+6
+x12=477; y12=405; x22=553; y22=667;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0223.jpg
+Detection took 0.087s for 300 object proposals
+x13=775; y13=457; x23=894; y23=795;
+1
+x13=911; y13=373; x23=1063; y23=805;
+2
+x13=147; y13=464; x23=388; y23=1031;
+3
+x13=573; y13=408; x23=699; y23=875;
+4
+x13=683; y13=424; x23=792; y23=843;
+5
+x13=381; y13=415; x23=537; y23=963;
+6
+x13=10; y13=338; x23=67; y23=493;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0224.jpg
+Detection took 0.083s for 300 object proposals
+x14=767; y14=458; x24=883; y24=808;
+1
+x14=176; y14=479; x24=349; y24=1016;
+2
+x14=3; y14=346; x24=92; y24=486;
+3
+x14=601; y14=399; x24=724; y24=906;
+4
+x14=943; y14=379; x24=1073; y24=818;
+5
+x14=395; y14=421; x24=541; y24=1007;
+6
+x14=527; y14=382; x24=588; y24=630;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0225.jpg
+Detection took 0.085s for 300 object proposals
+x11=181; y11=473; x21=385; y21=1016;
+1
+x11=792; y11=433; x21=907; y21=814;
+2
+x11=401; y11=446; x21=544; y21=958;
+3
+x11=941; y11=368; x21=1109; y21=811;
+4
+x11=5; y11=336; x21=64; y21=502;
+5
+x11=731; y11=467; x21=805; y21=849;
+6
+x11=616; y11=412; x21=747; y21=902;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0226.jpg
+Detection took 0.084s for 300 object proposals
+x12=711; y12=448; x22=807; y22=877;
+1
+x12=602; y12=420; x22=726; y22=916;
+2
+x12=957; y12=408; x22=1133; y22=783;
+3
+x12=212; y12=469; x22=383; y22=1023;
+4
+x12=2; y12=343; x22=58; y22=481;
+5
+x12=810; y12=439; x22=931; y22=830;
+6
+x12=404; y12=407; x22=567; y22=1014;
+7
+x12=528; y12=389; x22=595; y22=542;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0227.jpg
+Detection took 0.088s for 300 object proposals
+x13=970; y13=372; x23=1128; y23=804;
+1
+x13=15; y13=346; x23=70; y23=493;
+2
+x13=230; y13=449; x23=392; y23=1050;
+3
+x13=388; y13=458; x23=548; y23=996;
+4
+x13=818; y13=463; x23=937; y23=824;
+5
+x13=734; y13=458; x23=831; y23=842;
+6
+x13=630; y13=353; x23=730; y23=509;
+7
+x13=621; y13=448; x23=753; y23=919;
+8
+x13=526; y13=369; x23=620; y23=593;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0228.jpg
+Detection took 0.088s for 300 object proposals
+x14=987; y14=409; x24=1150; y24=811;
+1
+x14=444; y14=434; x24=573; y24=998;
+2
+x14=232; y14=466; x24=443; y24=1031;
+3
+x14=643; y14=438; x24=781; y24=915;
+4
+x14=6; y14=337; x24=81; y24=483;
+5
+x14=820; y14=449; x24=976; y24=812;
+6
+x14=529; y14=373; x24=618; y24=584;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0229.jpg
+Detection took 0.090s for 300 object proposals
+x11=1007; y11=403; x21=1149; y21=816;
+1
+x11=267; y11=447; x21=433; y21=1053;
+2
+x11=4; y11=336; x21=68; y21=481;
+3
+x11=639; y11=387; x21=787; y21=935;
+4
+x11=813; y11=457; x21=973; y21=876;
+5
+x11=450; y11=442; x21=593; y21=1029;
+6
+x11=558; y11=386; x21=631; y21=555;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0230.jpg
+Detection took 0.084s for 300 object proposals
+x12=281; y12=460; x22=467; y22=1057;
+1
+x12=995; y12=389; x22=1177; y22=810;
+2
+x12=869; y12=469; x22=1001; y22=824;
+3
+x12=1; y12=349; x22=64; y22=498;
+4
+x12=750; y12=421; x22=870; y22=918;
+5
+x12=458; y12=425; x22=599; y22=1024;
+6
+x12=673; y12=374; x22=763; y22=982;
+7
+x12=544; y12=367; x22=621; y22=541;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0231.jpg
+Detection took 0.083s for 300 object proposals
+x13=1029; y13=361; x23=1164; y23=838;
+1
+x13=854; y13=430; x23=1014; y23=846;
+2
+x13=249; y13=456; x23=481; y23=1041;
+3
+x13=466; y13=435; x23=608; y23=1068;
+4
+x13=1; y13=336; x23=58; y23=485;
+5
+x13=725; y13=436; x23=862; y23=892;
+6
+x13=685; y13=369; x23=783; y23=502;
+7
+x13=563; y13=385; x23=642; y23=636;
+8
+x13=463; y13=380; x23=540; y23=541;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0232.jpg
+Detection took 0.087s for 300 object proposals
+x14=1036; y14=380; x24=1171; y24=827;
+1
+x14=313; y14=469; x24=468; y24=1050;
+2
+x14=880; y14=427; x24=1021; y24=839;
+3
+x14=702; y14=407; x24=817; y24=948;
+4
+x14=5; y14=355; x24=70; y24=505;
+5
+x14=469; y14=410; x24=613; y24=1070;
+6
+x14=680; y14=348; x24=773; y24=493;
+7
+x14=567; y14=357; x24=658; y24=555;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0233.jpg
+Detection took 0.087s for 300 object proposals
+x11=291; y11=471; x21=492; y21=1041;
+1
+x11=1035; y11=373; x21=1193; y21=842;
+2
+x11=890; y11=445; x21=1009; y21=837;
+3
+x11=483; y11=440; x21=657; y21=1079;
+4
+x11=702; y11=418; x21=831; y21=981;
+5
+x11=0; y11=352; x21=53; y21=498;
+6
+x11=479; y11=393; x21=549; y21=549;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0234.jpg
+Detection took 0.088s for 300 object proposals
+x12=1063; y12=390; x22=1219; y22=865;
+1
+x12=285; y12=473; x22=489; y22=1064;
+2
+x12=912; y12=445; x22=1029; y22=857;
+3
+x12=771; y12=447; x22=900; y22=912;
+4
+x12=495; y12=451; x22=659; y22=1079;
+5
+x12=0; y12=335; x22=51; y22=493;
+6
+x12=484; y12=386; x22=556; y22=548;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0235.jpg
+Detection took 0.086s for 300 object proposals
+x13=1058; y13=384; x23=1246; y23=874;
+1
+x13=330; y13=478; x23=488; y23=1056;
+2
+x13=931; y13=442; x23=1034; y23=872;
+3
+x13=503; y13=458; x23=690; y23=1053;
+4
+x13=803; y13=443; x23=939; y23=945;
+5
+x13=709; y13=382; x23=804; y23=513;
+6
+x13=0; y13=340; x23=54; y23=497;
+7
+x13=483; y13=391; x23=563; y23=554;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0236.jpg
+Detection took 0.084s for 300 object proposals
+x14=1074; y14=386; x24=1256; y24=864;
+1
+x14=507; y14=456; x24=663; y24=1053;
+2
+x14=320; y14=475; x24=509; y24=1051;
+3
+x14=941; y14=450; x24=1081; y24=851;
+4
+x14=769; y14=438; x24=912; y24=983;
+5
+x14=724; y14=372; x24=834; y24=501;
+6
+x14=0; y14=358; x24=55; y24=490;
+7
+x14=590; y14=401; x24=692; y24=560;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0237.jpg
+Detection took 0.081s for 300 object proposals
+x11=1104; y11=406; x21=1281; y21=862;
+1
+x11=333; y11=483; x21=511; y21=1050;
+2
+x11=759; y11=442; x21=896; y21=980;
+3
+x11=959; y11=454; x21=1069; y21=882;
+4
+x11=529; y11=475; x21=695; y21=1061;
+5
+x11=9; y11=354; x21=48; y21=487;
+6
+x11=737; y11=368; x21=848; y21=486;
+7
+x11=589; y11=368; x21=693; y21=557;
+8
+x11=497; y11=407; x21=587; y21=592;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0238.jpg
+Detection took 0.081s for 300 object proposals
+x12=1124; y12=416; x22=1264; y22=880;
+1
+x12=312; y12=455; x22=536; y22=1049;
+2
+x12=541; y12=452; x22=707; y22=1079;
+3
+x12=734; y12=378; x22=845; y22=509;
+4
+x12=953; y12=451; x22=1071; y22=862;
+5
+x12=830; y12=453; x22=963; y22=913;
+6
+x12=616; y12=367; x22=695; y22=543;
+7
+x12=0; y12=365; x22=42; y22=485;
+8
+x12=496; y12=388; x22=589; y22=594;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0239.jpg
+Detection took 0.081s for 300 object proposals
+x13=1119; y13=378; x23=1293; y23=889;
+1
+x13=321; y13=452; x23=519; y23=1077;
+2
+x13=826; y13=433; x23=951; y23=922;
+3
+x13=555; y13=419; x23=711; y23=1079;
+4
+x13=992; y13=454; x23=1102; y23=872;
+5
+x13=746; y13=383; x23=853; y23=526;
+6
+x13=2; y13=343; x23=39; y23=487;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0240.jpg
+Detection took 0.083s for 300 object proposals
+x14=1169; y14=385; x24=1306; y24=888;
+1
+x14=322; y14=498; x24=548; y24=1079;
+2
+x14=992; y14=457; x24=1130; y24=882;
+3
+x14=743; y14=368; x24=863; y24=524;
+4
+x14=590; y14=473; x24=725; y24=1074;
+5
+x14=775; y14=418; x24=956; y24=983;
+6
+x14=0; y14=346; x24=17; y24=475;
+7
+x14=613; y14=377; x24=721; y24=541;
+8
+x14=526; y14=381; x24=607; y24=602;
+9
+x14=12; y14=353; x24=57; y24=483;
+10
+number:[ 1  2  3  4  5  6  7  8  9 10]
+Demo for data/demo/0241.jpg
+Detection took 0.086s for 300 object proposals
+x11=1167; y11=403; x21=1352; y21=865;
+1
+x11=1000; y11=451; x21=1127; y21=884;
+2
+x11=610; y11=479; x21=749; y21=1059;
+3
+x11=342; y11=465; x21=576; y21=1078;
+4
+x11=643; y11=377; x21=737; y21=529;
+5
+x11=786; y11=398; x21=914; y21=1002;
+6
+x11=530; y11=395; x21=611; y21=645;
+7
+x11=0; y11=365; x21=48; y21=472;
+8
+x11=908; y11=457; x21=1017; y21=942;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0242.jpg
+Detection took 0.084s for 300 object proposals
+x12=351; y12=505; x22=562; y22=1079;
+1
+x12=610; y12=480; x22=764; y22=1079;
+2
+x12=1018; y12=442; x22=1149; y22=866;
+3
+x12=774; y12=380; x22=880; y22=526;
+4
+x12=910; y12=472; x22=1023; y22=918;
+5
+x12=659; y12=372; x22=748; y22=525;
+6
+x12=819; y12=439; x22=930; y22=992;
+7
+x12=1180; y12=394; x22=1374; y22=830;
+8
+x12=520; y12=403; x22=628; y22=648;
+9
+x12=0; y12=362; x22=18; y22=468;
+10
+number:[ 1  2  3  4  5  6  7  8  9 10]
+Demo for data/demo/0243.jpg
+Detection took 0.086s for 300 object proposals
+x13=367; y13=512; x23=623; y23=1055;
+1
+x13=601; y13=464; x23=797; y23=1070;
+2
+x13=657; y13=364; x23=750; y23=527;
+3
+x13=1188; y13=405; x23=1433; y23=878;
+4
+x13=773; y13=364; x23=889; y23=528;
+5
+x13=1038; y13=431; x23=1181; y23=882;
+6
+x13=932; y13=463; x23=1050; y23=921;
+7
+x13=817; y13=441; x23=936; y23=1008;
+8
+x13=0; y13=343; x23=16; y23=461;
+9
+x13=540; y13=417; x23=637; y23=602;
+10
+number:[ 1  2  3  4  5  6  7  8  9 10]
+Demo for data/demo/0244.jpg
+Detection took 0.085s for 300 object proposals
+x14=400; y14=474; x24=594; y24=1079;
+1
+x14=617; y14=487; x24=829; y24=1079;
+2
+x14=670; y14=378; x24=770; y24=504;
+3
+x14=1053; y14=455; x24=1197; y24=873;
+4
+x14=1205; y14=398; x24=1431; y24=885;
+5
+x14=949; y14=478; x24=1045; y24=942;
+6
+x14=845; y14=438; x24=967; y24=1002;
+7
+x14=563; y14=416; x24=649; y24=638;
+8
+x14=780; y14=372; x24=901; y24=562;
+9
+x14=0; y14=351; x24=45; y24=483;
+10
+number:[ 1  2  3  4  5  6  7  8  9 10]
+Demo for data/demo/0245.jpg
+Detection took 0.085s for 300 object proposals
+x11=639; y11=465; x21=818; y21=1079;
+1
+x11=670; y11=370; x21=777; y21=518;
+2
+x11=1248; y11=404; x21=1461; y21=873;
+3
+x11=797; y11=374; x21=903; y21=533;
+4
+x11=869; y11=428; x21=997; y21=1007;
+5
+x11=1055; y11=442; x21=1244; y21=922;
+6
+x11=558; y11=404; x21=676; y21=655;
+7
+x11=385; y11=484; x21=653; y21=1061;
+8
+x11=0; y11=332; x21=52; y21=496;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0246.jpg
+Detection took 0.082s for 300 object proposals
+x12=680; y12=441; x22=827; y22=1079;
+1
+x12=1270; y12=417; x22=1428; y22=898;
+2
+x12=690; y12=386; x22=806; y22=517;
+3
+x12=807; y12=361; x22=911; y22=552;
+4
+x12=986; y12=451; x22=1088; y22=961;
+5
+x12=1114; y12=440; x22=1258; y22=897;
+6
+x12=562; y12=413; x22=689; y22=627;
+7
+x12=0; y12=344; x22=37; y22=484;
+8
+x12=420; y12=465; x22=625; y22=1070;
+9
+x12=883; y12=430; x22=994; y22=1025;
+10
+number:[ 1  2  3  4  5  6  7  8  9 10]
+Demo for data/demo/0247.jpg
+Detection took 0.083s for 300 object proposals
+x13=695; y13=362; x23=792; y23=523;
+1
+x13=672; y13=475; x23=840; y23=1079;
+2
+x13=819; y13=361; x23=932; y23=553;
+3
+x13=1277; y13=431; x23=1462; y23=906;
+4
+x13=1105; y13=450; x23=1275; y23=903;
+5
+x13=938; y13=446; x23=1074; y23=1018;
+6
+x13=434; y13=505; x23=655; y23=1069;
+7
+x13=582; y13=402; x23=681; y23=692;
+8
+x13=0; y13=361; x23=30; y23=484;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0248.jpg
+Detection took 0.084s for 300 object proposals
+x14=703; y14=489; x24=874; y24=1079;
+1
+x14=1118; y14=467; x24=1269; y24=902;
+2
+x14=1290; y14=393; x24=1442; y24=919;
+3
+x14=813; y14=364; x24=926; y24=565;
+4
+x14=679; y14=379; x24=805; y24=529;
+5
+x14=428; y14=472; x24=690; y24=1055;
+6
+x14=0; y14=349; x24=40; y24=491;
+7
+x14=989; y14=466; x24=1114; y24=989;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0249.jpg
+Detection took 0.083s for 300 object proposals
+x11=718; y11=466; x21=884; y21=1079;
+1
+x11=1326; y11=398; x21=1480; y21=926;
+2
+x11=1134; y11=432; x21=1284; y21=893;
+3
+x11=953; y11=434; x21=1089; y21=1060;
+4
+x11=717; y11=401; x21=840; y21=529;
+5
+x11=842; y11=374; x21=951; y21=549;
+6
+x11=439; y11=510; x21=687; y21=1079;
+7
+x11=5; y11=361; x21=35; y21=490;
+8
+x11=591; y11=393; x21=709; y21=659;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0250.jpg
+Detection took 0.082s for 300 object proposals
+x12=1159; y12=442; x22=1301; y22=913;
+1
+x12=1342; y12=398; x22=1528; y22=924;
+2
+x12=712; y12=515; x22=911; y22=1079;
+3
+x12=861; y12=374; x22=967; y22=654;
+4
+x12=731; y12=398; x22=841; y22=532;
+5
+x12=462; y12=513; x22=701; y22=1050;
+6
+x12=996; y12=445; x22=1127; y22=1055;
+7
+x12=0; y12=346; x22=24; y22=473;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0251.jpg
+Detection took 0.081s for 300 object proposals
+x13=1181; y13=459; x23=1300; y23=887;
+1
+x13=749; y13=496; x23=902; y23=1079;
+2
+x13=1354; y13=455; x23=1547; y23=908;
+3
+x13=472; y13=531; x23=714; y23=1061;
+4
+x13=883; y13=357; x23=985; y23=662;
+5
+x13=716; y13=402; x23=846; y23=541;
+6
+x13=1078; y13=462; x23=1194; y23=1021;
+7
+x13=0; y13=351; x23=20; y23=464;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0252.jpg
+Detection took 0.085s for 300 object proposals
+x14=1353; y14=422; x24=1568; y24=915;
+1
+x14=1182; y14=459; x24=1329; y24=908;
+2
+x14=759; y14=493; x24=915; y24=1079;
+3
+x14=742; y14=404; x24=856; y24=526;
+4
+x14=1039; y14=479; x24=1189; y24=1036;
+5
+x14=483; y14=498; x24=758; y24=1043;
+6
+x14=896; y14=375; x24=1000; y24=630;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0253.jpg
+Detection took 0.082s for 300 object proposals
+x11=1175; y11=466; x21=1319; y21=891;
+1
+x11=1373; y11=414; x21=1587; y21=930;
+2
+x11=477; y11=518; x21=752; y21=1079;
+3
+x11=773; y11=386; x21=853; y21=518;
+4
+x11=778; y11=487; x21=935; y21=1079;
+5
+x11=1016; y11=468; x21=1183; y21=1073;
+6
+x11=898; y11=377; x21=999; y21=607;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0254.jpg
+Detection took 0.082s for 300 object proposals
+x12=1422; y12=386; x22=1597; y22=929;
+1
+x12=1222; y12=485; x22=1368; y22=994;
+2
+x12=771; y12=384; x22=859; y22=544;
+3
+x12=778; y12=495; x22=937; y22=1079;
+4
+x12=1030; y12=464; x22=1192; y22=1062;
+5
+x12=912; y12=357; x22=1036; y22=678;
+6
+x12=522; y12=489; x22=754; y22=1061;
+7
+x12=630; y12=390; x22=758; y22=590;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0255.jpg
+Detection took 0.082s for 300 object proposals
+x13=1417; y13=409; x23=1623; y23=945;
+1
+x13=1250; y13=463; x23=1396; y23=965;
+2
+x13=812; y13=525; x23=996; y23=1079;
+3
+x13=1064; y13=450; x23=1216; y23=1079;
+4
+x13=915; y13=374; x23=1071; y23=510;
+5
+x13=508; y13=491; x23=790; y23=1064;
+6
+x13=649; y13=408; x23=758; y23=580;
+7
+x13=780; y13=380; x23=874; y23=555;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0256.jpg
+Detection took 0.081s for 300 object proposals
+x14=1466; y14=375; x24=1619; y24=958;
+1
+x14=541; y14=506; x24=784; y24=1070;
+2
+x14=823; y14=535; x24=1031; y24=1079;
+3
+x14=1281; y14=452; x24=1390; y24=969;
+4
+x14=920; y14=377; x24=1092; y24=487;
+5
+x14=643; y14=430; x24=773; y24=574;
+6
+x14=1080; y14=458; x24=1240; y24=1051;
+7
+x14=805; y14=382; x24=882; y24=561;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0257.jpg
+Detection took 0.108s for 300 object proposals
+x11=1488; y11=395; x21=1661; y21=941;
+1
+x11=536; y11=542; x21=814; y21=1067;
+2
+x11=1272; y11=451; x21=1406; y21=994;
+3
+x11=837; y11=508; x21=1033; y21=1072;
+4
+x11=941; y11=380; x21=1096; y21=594;
+5
+x11=1102; y11=487; x21=1257; y21=1061;
+6
+x11=809; y11=386; x21=909; y21=561;
+7
+x11=670; y11=396; x21=797; y21=568;
+8
+x11=0; y11=350; x21=13; y21=477;
+9
+number:[1 2 3 4 5 6 7 8 9]
+Demo for data/demo/0258.jpg
+Detection took 0.110s for 300 object proposals
+x12=1517; y12=405; x22=1685; y22=957;
+1
+x12=581; y12=511; x22=854; y22=1075;
+2
+x12=812; y12=569; x22=1049; y22=1079;
+3
+x12=671; y12=399; x22=795; y22=552;
+4
+x12=1110; y12=456; x22=1247; y22=1079;
+5
+x12=1296; y12=450; x22=1427; y22=927;
+6
+x12=938; y12=368; x22=1105; y22=573;
+7
+x12=805; y12=385; x22=934; y22=561;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0259.jpg
+Detection took 0.085s for 300 object proposals
+x13=1328; y13=439; x23=1484; y23=1011;
+1
+x13=590; y13=500; x23=870; y23=1079;
+2
+x13=871; y13=577; x23=1060; y23=1079;
+3
+x13=684; y13=402; x23=821; y23=594;
+4
+x13=1112; y13=445; x23=1294; y23=1079;
+5
+x13=959; y13=369; x23=1124; y23=569;
+6
+x13=1525; y13=383; x23=1696; y23=955;
+7
+x13=800; y13=379; x23=935; y23=582;
+8
+number:[1 2 3 4 5 6 7 8]
+Demo for data/demo/0260.jpg
+Detection took 0.084s for 300 object proposals
+x14=799; y14=382; x24=957; y24=630;
+1
+x14=882; y14=548; x24=1096; y24=1077;
+2
+x14=1569; y14=426; x24=1783; y24=978;
+3
+x14=1122; y14=502; x24=1339; y24=1077;
+4
+x14=1361; y14=446; x24=1511; y24=1020;
+5
+x14=627; y14=428; x24=887; y24=1079;
+6
+x14=975; y14=355; x24=1119; y24=629;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0261.jpg
+Detection took 0.081s for 300 object proposals
+x11=1159; y11=453; x21=1323; y21=1079;
+1
+x11=629; y11=554; x21=949; y21=1074;
+2
+x11=1392; y11=419; x21=1509; y21=1050;
+3
+x11=1579; y11=380; x21=1767; y21=954;
+4
+x11=712; y11=422; x21=833; y21=600;
+5
+x11=994; y11=339; x21=1128; y21=644;
+6
+x11=825; y11=387; x21=969; y21=606;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0262.jpg
+Detection took 0.081s for 300 object proposals
+x12=1600; y12=415; x22=1819; y22=958;
+1
+x12=675; y12=480; x22=923; y22=1079;
+2
+x12=858; y12=395; x22=968; y22=602;
+3
+x12=1420; y12=447; x22=1535; y22=1031;
+4
+x12=1014; y12=364; x22=1116; y22=532;
+5
+x12=936; y12=499; x22=1115; y22=1079;
+6
+x12=1200; y12=450; x22=1353; y22=1062;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0263.jpg
+Detection took 0.082s for 300 object proposals
+x13=700; y13=460; x23=962; y23=1079;
+1
+x13=1668; y13=419; x23=1839; y23=995;
+2
+x13=1246; y13=451; x23=1420; y23=1068;
+3
+x13=1413; y13=466; x23=1544; y23=1042;
+4
+x13=875; y13=398; x23=994; y23=586;
+5
+x13=951; y13=530; x23=1137; y23=1063;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0264.jpg
+Detection took 0.082s for 300 object proposals
+x14=1303; y14=458; x24=1495; y24=1077;
+1
+x14=1689; y14=364; x24=1839; y24=1035;
+2
+x14=743; y14=416; x24=879; y24=688;
+3
+x14=1481; y14=465; x24=1604; y24=1023;
+4
+x14=885; y14=417; x24=996; y24=556;
+5
+x14=950; y14=538; x24=1156; y24=1072;
+6
+x14=1040; y14=364; x24=1132; y24=597;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0265.jpg
+Detection took 0.082s for 300 object proposals
+x11=1681; y11=414; x21=1851; y21=1034;
+1
+x11=1507; y11=486; x21=1614; y21=998;
+2
+x11=975; y11=504; x21=1169; y21=1079;
+3
+x11=715; y11=504; x21=1017; y21=1079;
+4
+x11=1299; y11=450; x21=1458; y21=1050;
+5
+x11=895; y11=389; x21=1012; y21=597;
+6
+x11=1038; y11=362; x21=1165; y21=578;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0266.jpg
+Detection took 0.083s for 300 object proposals
+x12=1477; y12=471; x22=1625; y22=1013;
+1
+x12=1753; y12=359; x22=1891; y22=1056;
+2
+x12=1318; y12=476; x22=1497; y22=1074;
+3
+x12=990; y12=560; x22=1217; y22=1058;
+4
+x12=1048; y12=360; x22=1169; y22=587;
+5
+x12=900; y12=379; x22=1030; y22=597;
+6
+x12=762; y12=475; x22=1017; y22=1079;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0267.jpg
+Detection took 0.082s for 300 object proposals
+x13=1747; y13=389; x23=1919; y23=1026;
+1
+x13=1326; y13=492; x23=1510; y23=1079;
+2
+x13=1499; y13=499; x23=1643; y23=1001;
+3
+x13=779; y13=406; x23=916; y23=744;
+4
+x13=1069; y13=361; x23=1210; y23=541;
+5
+x13=1002; y13=604; x23=1225; y23=1053;
+6
+x13=924; y13=368; x23=1039; y23=657;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0268.jpg
+Detection took 0.081s for 300 object proposals
+x14=1747; y14=428; x24=1919; y24=1048;
+1
+x14=1532; y14=470; x24=1682; y24=989;
+2
+x14=1096; y14=373; x24=1228; y24=548;
+3
+x14=786; y14=412; x24=902; y24=742;
+4
+x14=766; y14=557; x24=1164; y24=1071;
+5
+x14=1339; y14=489; x24=1532; y24=1043;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0269.jpg
+Detection took 0.082s for 300 object proposals
+x11=1771; y11=441; x21=1917; y21=1025;
+1
+x11=799; y11=409; x21=939; y21=820;
+2
+x11=1547; y11=494; x21=1684; y21=1065;
+3
+x11=1081; y11=378; x21=1225; y21=518;
+4
+x11=1363; y11=472; x21=1559; y21=1072;
+5
+x11=932; y11=407; x21=1031; y21=598;
+6
+x11=1052; y11=588; x21=1313; y21=1053;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0270.jpg
+Detection took 0.081s for 300 object proposals
+x12=810; y12=400; x22=942; y22=833;
+1
+x12=1378; y12=491; x22=1613; y22=1070;
+2
+x12=1760; y12=419; x22=1914; y22=1044;
+3
+x12=1108; y12=346; x22=1243; y22=546;
+4
+x12=1577; y12=492; x22=1737; y22=1014;
+5
+x12=1092; y12=597; x22=1333; y22=1068;
+6
+x12=955; y12=394; x22=1062; y22=583;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0271.jpg
+Detection took 0.082s for 300 object proposals
+x13=801; y13=422; x23=958; y23=826;
+1
+x13=1109; y13=333; x23=1262; y23=612;
+2
+x13=1636; y13=510; x23=1779; y23=1028;
+3
+x13=1807; y13=488; x23=1915; y23=830;
+4
+x13=1113; y13=617; x23=1375; y23=1077;
+5
+x13=1452; y13=533; x23=1666; y23=1079;
+6
+x13=966; y13=387; x23=1063; y23=594;
+7
+number:[1 2 3 4 5 6 7]
+Demo for data/demo/0272.jpg
+Detection took 0.082s for 300 object proposals
+x14=818; y14=408; x24=991; y24=830;
+1
+x14=1627; y14=499; x24=1783; y24=1057;
+2
+x14=1118; y14=366; x24=1280; y24=578;
+3
+x14=1143; y14=570; x24=1389; y24=1074;
+4
+x14=1825; y14=831; x24=1900; y24=1024;
+5
+x14=981; y14=407; x24=1075; y24=623;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0273.jpg
+Detection took 0.081s for 300 object proposals
+x11=832; y11=402; x21=982; y21=852;
+1
+x11=1498; y11=529; x21=1695; y21=1076;
+2
+x11=1130; y11=363; x21=1277; y21=666;
+3
+x11=986; y11=404; x21=1095; y21=615;
+4
+x11=1017; y11=608; x21=1381; y21=1077;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0274.jpg
+Detection took 0.082s for 300 object proposals
+x12=854; y12=421; x22=1020; y22=886;
+1
+x12=1673; y12=472; x22=1858; y22=1079;
+2
+x12=1009; y12=402; x22=1123; y22=745;
+3
+x12=1228; y12=606; x22=1434; y22=1079;
+4
+x12=1535; y12=487; x22=1694; y22=1074;
+5
+x12=1159; y12=388; x22=1308; y22=649;
+6
+number:[1 2 3 4 5 6]
+Demo for data/demo/0275.jpg
+Detection took 0.082s for 300 object proposals
+x13=881; y13=389; x23=1011; y23=852;
+1
+x13=1729; y13=467; x23=1900; y23=1079;
+2
+x13=1002; y13=404; x23=1144; y23=810;
+3
+x13=1538; y13=509; x23=1742; y23=1065;
+4
+x13=1182; y13=353; x23=1311; y23=716;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0276.jpg
+Detection took 0.083s for 300 object proposals
+x14=1770; y14=504; x24=1919; y24=1072;
+1
+x14=887; y14=404; x24=1035; y24=846;
+2
+x14=1161; y14=375; x24=1341; y24=619;
+3
+x14=1022; y14=380; x24=1156; y24=731;
+4
+x14=1562; y14=569; x24=1786; y24=1062;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0277.jpg
+Detection took 0.082s for 300 object proposals
+x11=876; y11=406; x21=1064; y21=874;
+1
+x11=1043; y11=365; x21=1174; y21=813;
+2
+x11=1612; y11=539; x21=1855; y21=1059;
+3
+x11=1327; y11=628; x21=1598; y21=1079;
+4
+x11=1094; y11=696; x21=1359; y21=1079;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0278.jpg
+Detection took 0.082s for 300 object proposals
+x12=898; y12=415; x22=1075; y22=866;
+1
+x12=1041; y12=388; x22=1199; y22=766;
+2
+x12=1207; y12=367; x22=1340; y22=689;
+3
+x12=1713; y12=510; x22=1913; y22=1074;
+4
+x12=1367; y12=619; x22=1616; y22=1079;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0279.jpg
+Detection took 0.082s for 300 object proposals
+x13=908; y13=430; x23=1091; y23=851;
+1
+x13=1064; y13=375; x23=1208; y23=792;
+2
+x13=1719; y13=523; x23=1913; y23=1079;
+3
+x13=1216; y13=400; x23=1380; y23=773;
+4
+x13=1338; y13=598; x23=1699; y23=1079;
+5
+number:[1 2 3 4 5]
+Demo for data/demo/0280.jpg
+Detection took 0.083s for 300 object proposals
+x14=1074; y14=403; x24=1237; y24=845;
+1
+x14=939; y14=437; x24=1102; y24=862;
+2
+x14=1784; y14=495; x24=1914; y24=1079;
+3
+x14=1222; y14=360; x24=1403; y24=783;
+4
+number:[1 2 3 4]
+Demo for data/demo/0281.jpg
+Detection took 0.082s for 300 object proposals
+x11=1246; y11=374; x21=1429; y21=780;
+1
+x11=950; y11=445; x21=1114; y21=869;
+2
+x11=1111; y11=391; x21=1227; y21=796;
+3
+x11=1788; y11=509; x21=1909; y21=1079;
+4
+number:[1 2 3 4]
+Demo for data/demo/0282.jpg
+Detection took 0.082s for 300 object proposals
+x12=1258; y12=367; x22=1434; y22=778;
+1
+x12=956; y12=420; x22=1103; y22=885;
+2
+x12=1115; y12=386; x22=1254; y22=841;
+3
+number:[1 2 3]
+Demo for data/demo/0283.jpg
+Detection took 0.082s for 300 object proposals
+x13=984; y13=443; x23=1132; y23=880;
+1
+x13=1297; y13=364; x23=1445; y23=781;
+2
+x13=1159; y13=500; x23=1256; y23=864;
+3
+number:[1 2 3]
+Demo for data/demo/0284.jpg
+Detection took 0.081s for 300 object proposals
+x14=996; y14=428; x24=1141; y24=880;
+1
+x14=1319; y14=368; x24=1472; y24=818;
+2
+x14=1157; y14=392; x24=1266; y24=861;
+3
+x14=1699; y14=713; x24=1901; y24=1076;
+4
+number:[1 2 3 4]
+Demo for data/demo/0285.jpg
+Detection took 0.082s for 300 object proposals
+x11=1337; y11=345; x21=1468; y21=827;
+1
+x11=1013; y11=430; x21=1136; y21=876;
+2
+x11=1185; y11=409; x21=1311; y21=841;
+3
+number:[1 2 3]
+Demo for data/demo/0286.jpg
+Detection took 0.082s for 300 object proposals
+x12=1170; y12=400; x22=1328; y22=834;
+1
+x12=1342; y12=376; x22=1506; y22=809;
+2
+x12=1013; y12=425; x22=1175; y22=892;
+3
+number:[1 2 3]
+Demo for data/demo/0287.jpg
+Detection took 0.082s for 300 object proposals
+x13=1334; y13=353; x23=1532; y23=812;
+1
+x13=1027; y13=448; x23=1207; y23=888;
+2
+x13=1174; y13=416; x23=1362; y23=828;
+3
+number:[1 2 3]
+Demo for data/demo/0288.jpg
+Detection took 0.083s for 300 object proposals
+x14=1031; y14=430; x24=1217; y24=911;
+1
+x14=1376; y14=351; x24=1522; y24=839;
+2
+x14=1194; y14=420; x24=1391; y24=872;
+3
+x14=1752; y14=815; x24=1917; y24=1079;
+4
+number:[1 2 3 4]
+Demo for data/demo/0289.jpg
+Detection took 0.083s for 300 object proposals
+x11=1391; y11=353; x21=1559; y21=844;
+1
+x11=1065; y11=429; x21=1213; y21=946;
+2
+x11=1224; y11=409; x21=1407; y21=874;
+3
+number:[1 2 3]
+Demo for data/demo/0290.jpg
+Detection took 0.085s for 300 object proposals
+x12=1085; y12=426; x22=1264; y22=911;
+1
+x12=1395; y12=341; x22=1586; y22=858;
+2
+x12=1267; y12=410; x22=1409; y22=895;
+3
+number:[1 2 3]
+Demo for data/demo/0291.jpg
+Detection took 0.084s for 300 object proposals
+x13=1419; y13=349; x23=1604; y23=869;
+1
+x13=1111; y13=467; x23=1244; y23=950;
+2
+x13=1283; y13=390; x23=1423; y23=882;
+3
+number:[1 2 3]
+Demo for data/demo/0292.jpg
+Detection took 0.085s for 300 object proposals
+x14=1422; y14=375; x24=1629; y24=848;
+1
+x14=1121; y14=412; x24=1249; y24=909;
+2
+x14=1303; y14=389; x24=1432; y24=869;
+3
+number:[1 2 3]
+Demo for data/demo/0293.jpg
+Detection took 0.086s for 300 object proposals
+x11=1474; y11=384; x21=1629; y21=868;
+1
+x11=1132; y11=409; x21=1277; y21=898;
+2
+x11=1320; y11=379; x21=1457; y21=827;
+3
+number:[1 2 3]
+Demo for data/demo/0294.jpg
+Detection took 0.083s for 300 object proposals
+x12=1168; y12=426; x22=1341; y22=935;
+1
+x12=1310; y12=384; x22=1473; y22=886;
+2
+x12=1518; y12=342; x22=1638; y22=868;
+3
+number:[1 2 3]
+Demo for data/demo/0295.jpg
+Detection took 0.086s for 300 object proposals
+x13=1170; y13=450; x23=1332; y23=900;
+1
+x13=1339; y13=407; x23=1517; y23=921;
+2
+x13=1535; y13=373; x23=1671; y23=847;
+3
+number:[1 2 3]
+Demo for data/demo/0296.jpg
+Detection took 0.083s for 300 object proposals
+x14=1170; y14=436; x24=1365; y24=927;
+1
+x14=1538; y14=326; x24=1702; y24=860;
+2
+x14=1369; y14=402; x24=1550; y24=922;
+3
+number:[1 2 3]
+Demo for data/demo/0297.jpg
+Detection took 0.082s for 300 object proposals
+x11=1197; y11=429; x21=1409; y21=969;
+1
+x11=1544; y11=337; x21=1755; y21=889;
+2
+x11=1385; y11=398; x21=1544; y21=895;
+3
+number:[1 2 3]
+Demo for data/demo/0298.jpg
+Detection took 0.083s for 300 object proposals
+x12=1580; y12=365; x22=1770; y22=880;
+1
+x12=1407; y12=405; x22=1556; y22=831;
+2
+x12=1248; y12=419; x22=1432; y22=973;
+3
+number:[1 2 3]
+Demo for data/demo/0299.jpg
+Detection took 0.083s for 300 object proposals
+x13=1615; y13=357; x23=1777; y23=892;
+1
+x13=1270; y13=407; x23=1456; y23=928;
+2
+x13=1454; y13=389; x23=1578; y23=856;
+3
+number:[1 2 3]
+Demo for data/demo/0300.jpg
+Detection took 0.083s for 300 object proposals
+x14=1311; y14=437; x24=1453; y24=998;
+1
+x14=1483; y14=360; x24=1614; y24=921;
+2
+x14=1637; y14=350; x24=1811; y24=896;
+3
+number:[1 2 3]
+Demo for data/demo/0301.jpg
+Detection took 0.084s for 300 object proposals
+x11=1327; y11=391; x21=1470; y21=1008;
+1
+x11=1687; y11=292; x21=1821; y21=917;
+2
+x11=1499; y11=360; x21=1643; y21=936;
+3
+number:[1 2 3]
+Demo for data/demo/0302.jpg
+Detection took 0.087s for 300 object proposals
+x12=1689; y12=314; x22=1838; y22=933;
+1
+x12=1364; y12=400; x22=1495; y22=1022;
+2
+x12=1507; y12=363; x22=1666; y22=944;
+3
+number:[1 2 3]
+Demo for data/demo/0303.jpg
+Detection took 0.086s for 300 object proposals
+x13=1724; y13=271; x23=1878; y23=962;
+1
+x13=1553; y13=393; x23=1683; y23=960;
+2
+x13=1377; y13=428; x23=1540; y23=1001;
+3
+number:[1 2 3]
+Demo for data/demo/0304.jpg
+Detection took 0.087s for 300 object proposals
+x14=1741; y14=313; x24=1902; y24=1005;
+1
+x14=1373; y14=421; x24=1559; y24=981;
+2
+x14=1564; y14=379; x24=1707; y24=990;
+3
+number:[1 2 3]
+Demo for data/demo/0305.jpg
+Detection took 0.084s for 300 object proposals
+x11=1404; y11=461; x21=1617; y21=995;
+1
+x11=1745; y11=336; x21=1919; y21=955;
+2
+x11=1607; y11=391; x21=1741; y21=962;
+3
+number:[1 2 3]
+Demo for data/demo/0306.jpg
+Detection took 0.084s for 300 object proposals
+x12=1768; y12=382; x22=1919; y22=964;
+1
+x12=1415; y12=436; x22=1658; y22=1026;
+2
+x12=1651; y12=401; x22=1786; y22=934;
+3
+number:[1 2 3]
+Demo for data/demo/0307.jpg
+Detection took 0.082s for 300 object proposals
+x13=1454; y13=447; x23=1668; y23=999;
+1
+x13=1671; y13=385; x23=1795; y23=938;
+2
+x13=1810; y13=352; x23=1905; y23=962;
+3
+number:[1 2 3]
+Demo for data/demo/0308.jpg
+Detection took 0.086s for 300 object proposals
+x14=1509; y14=447; x24=1667; y24=983;
+1
+x14=1665; y14=366; x24=1885; y24=1019;
+2
+number:[1 2]
+Demo for data/demo/0309.jpg
+Detection took 0.084s for 300 object proposals
+x11=1553; y11=427; x21=1686; y21=1057;
+1
+x11=1723; y11=387; x21=1858; y21=932;
+2
+number:[1 2]
+Demo for data/demo/0310.jpg
+Detection took 0.084s for 300 object proposals
+x12=1565; y12=408; x22=1737; y22=1062;
+1
+x12=1738; y12=381; x22=1918; y22=1009;
+2
+number:[1 2]
+Demo for data/demo/0311.jpg
+Detection took 0.085s for 300 object proposals
+x13=1750; y13=371; x23=1919; y23=1036;
+1
+x13=1599; y13=402; x23=1771; y23=1069;
+2
+number:[1 2]
+Demo for data/demo/0312.jpg
+Detection took 0.084s for 300 object proposals
+x14=1606; y14=378; x24=1806; y24=1079;
+1
+x14=1802; y14=367; x24=1919; y24=1025;
+2
+number:[1 2]
+Demo for data/demo/0313.jpg
+Detection took 0.083s for 300 object proposals
+x11=1614; y11=418; x21=1919; y21=1061;
+1
+number:[1]
+Demo for data/demo/0314.jpg
+Detection took 0.085s for 300 object proposals
+x12=1624; y12=451; x22=1919; y22=1045;
+1
+number:[1]
+Demo for data/demo/0315.jpg
+Detection took 0.086s for 300 object proposals
+x13=1714; y13=462; x23=1886; y23=1064;
+1
+number:[1]
+Demo for data/demo/0316.jpg
+Detection took 0.086s for 300 object proposals
+x14=1767; y14=414; x24=1919; y24=1065;
+1
+number:[1]
+Demo for data/demo/0317.jpg
+Detection took 0.086s for 300 object proposals
+x11=1794; y11=428; x21=1919; y21=1035;
+1
+number:[1]
+Demo for data/demo/0318.jpg
+Detection took 0.084s for 300 object proposals
+x12=1799; y12=393; x22=1915; y22=1069;
+1
+number:[1]
+Demo for data/demo/0319.jpg
+Detection took 0.086s for 300 object proposals
+Demo for data/demo/0320.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0321.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0322.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0323.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0324.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0325.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0326.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0327.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0328.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0329.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0330.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0331.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0332.jpg
+Detection took 0.085s for 300 object proposals
+Demo for data/demo/0333.jpg
+Detection took 0.085s for 300 object proposals
+Demo for data/demo/0334.jpg
+Detection took 0.084s for 300 object proposals
+Demo for data/demo/0335.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0336.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0337.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0338.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0339.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0340.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0341.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0342.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0343.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0344.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0345.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0346.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0347.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0348.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0349.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0350.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0351.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0352.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0353.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0354.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0355.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0356.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0357.jpg
+Detection took 0.078s for 300 object proposals
+Demo for data/demo/0358.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0359.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0360.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0361.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0362.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0363.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0364.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0365.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0366.jpg
+Detection took 0.078s for 300 object proposals
+Demo for data/demo/0367.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0368.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0369.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0370.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0371.jpg
+Detection took 0.079s for 300 object proposals
+Demo for data/demo/0372.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0373.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0374.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0375.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0376.jpg
+Detection took 0.097s for 300 object proposals
+Demo for data/demo/0377.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0378.jpg
+Detection took 0.087s for 300 object proposals
+Demo for data/demo/0379.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0380.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0381.jpg
+Detection took 0.088s for 300 object proposals
+Demo for data/demo/0382.jpg
+Detection took 0.089s for 300 object proposals
+Demo for data/demo/0383.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0384.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0385.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0386.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0387.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0388.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0389.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0390.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0391.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0392.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0393.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0394.jpg
+Detection took 0.084s for 300 object proposals
+Demo for data/demo/0395.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0396.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0397.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0398.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0399.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0400.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0401.jpg
+Detection took 0.084s for 300 object proposals
+Demo for data/demo/0402.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0403.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0404.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0405.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0406.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0407.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0408.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0409.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0410.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0411.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0412.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0413.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0414.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0415.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0416.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0417.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0418.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0419.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0420.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0421.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0422.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0423.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0424.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0425.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0426.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0427.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0428.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0429.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0430.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0431.jpg
+Detection took 0.084s for 300 object proposals
+Demo for data/demo/0432.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0433.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0434.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0435.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0436.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0437.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0438.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0439.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0440.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0441.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0442.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0443.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0444.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0445.jpg
+Detection took 0.080s for 300 object proposals
+Demo for data/demo/0446.jpg
+Detection took 0.084s for 300 object proposals
+Demo for data/demo/0447.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0448.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0449.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0450.jpg
+Detection took 0.104s for 300 object proposals
+Demo for data/demo/0451.jpg
+Detection took 0.096s for 300 object proposals
+Demo for data/demo/0452.jpg
+Detection took 0.094s for 300 object proposals
+Demo for data/demo/0453.jpg
+Detection took 0.094s for 300 object proposals
+Demo for data/demo/0454.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0455.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0456.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0457.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0458.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0459.jpg
+Detection took 0.103s for 300 object proposals
+Demo for data/demo/0460.jpg
+Detection took 0.082s for 300 object proposals
+Demo for data/demo/0461.jpg
+Detection took 0.085s for 300 object proposals
+Demo for data/demo/0462.jpg
+Detection took 0.083s for 300 object proposals
+Demo for data/demo/0463.jpg
+Detection took 0.081s for 300 object proposals
+Demo for data/demo/0464.jpg
+Detection took 0.082s for 300 object proposals
