@@ -1,1 +1,1 @@
-Tools for training, testing, and compressing Faster R-CNN networks.
+Tools for training, testing, and compressing Dynamics using Faster R-CNN networks.
