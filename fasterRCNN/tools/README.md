@@ -1,7 +1,7 @@
 fasterRCNN framework:
-Traffic detection under surveillance cameras.
-Environment：
-Caffe(GPU)+cuda_8.0.61+cudnn-8.0+python 3+openCV 3.0plus
+        Traffic detection under surveillance cameras.
+        Environment：
+                   Caffe(GPU)+cuda_8.0.61+cudnn-8.0+python 3+openCV 3.0plus
 TIPS:
 print folder：frame detection
 copy_audio.py：copy detection video
